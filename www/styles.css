@@ -1,0 +1,48 @@
+p {
+    font-family: 'Arial', sans-serif;
+    font-size: 20px;
+    color: #333;
+}
+
+.references {
+    font-family: 'Arial', sans-serif;
+    font-size: 15px;
+    color: #333;
+}
+
+.ref_title {
+    font-family: 'Arial', sans-serif;
+    font-size: 17px;
+    color: #333;
+}
+
+ol{
+    font-family: 'Arial', sans-serif;
+    font-size: 20px;
+    color: #93db0d;
+}
+
+h1{
+    font-family: 'Arial', sans-serif;
+    color: #2e1a53;
+}
+
+h2{
+    font-family: 'Arial', sans-serif;
+    color: #533785;
+}
+
+h3{
+    font-family: 'Arial', sans-serif;
+    color: #6e2ee4;
+}
+
+h4{
+    font-family: 'Arial', sans-serif;
+    color: #815dc5;
+}
+
+h5{
+    font-family: 'Arial', sans-serif;
+    color: #a582e6;
+}
