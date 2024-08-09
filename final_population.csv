@@ -1,0 +1,2377 @@
+"Year","Age_category","SA2.name","Gender","Population_Count","CO2_generated_ML_yr","CO2_generated_tonnes_yr"
+2012,"Adult","Carlton","M",5630,1375.99452,2724.4691496
+2011,"Adult","Port Melbourne","M",36,8.798544,17.42111712
+2012,"Adult","Carlton","F",6044,1153.1516832,2283.240332736
+2011,"Adult","Port Melbourne","F",16,3.0526848,6.044315904
+2011,"Adult","Port Melbourne","F",5337,1018.2611736,2016.157123728
+2011,"Adult","South Yarra","F",2169,413.8295832,819.382574736
+2012,"Adult","Carlton","A",11674,2540.2437216,5029.682568768
+2011,"Adult","Port Melbourne","A",52,11.3151168,22.403931264
+2011,"Adult","Port Melbourne","A",10307,2242.7867088,4440.717683424
+2011,"Adult","South Yarra","A",4252,925.2283968,1831.952225664
+2012,"Adult","Docklands","M",2914,712.193256,1410.14264688
+2011,"Adult","Melbourne (CBD)","M",2672,653.047488,1293.03402624
+2011,"Adult","Melbourne (CBD)","M",3401,831.218004,1645.81164792
+2011,"Adult","West Melbourne (Industrial)","M",0,0,0
+2012,"Adult","Docklands","F",2576,491.4822528,973.134860544
+2011,"Adult","Melbourne (CBD)","F",2657,506.9364696,1003.734209808
+2011,"Adult","Melbourne (CBD)","F",3125,596.2275,1180.53045
+2011,"Adult","West Melbourne (Industrial)","F",0,0,0
+2012,"Adult","Docklands","A",5490,1194.615216,2365.33812768
+2011,"Adult","Melbourne (CBD)","A",5329,1159.5818736,2295.972109728
+2011,"Adult","Melbourne (CBD)","A",6526,1420.0471584,2811.693373632
+2011,"Adult","West Melbourne (Industrial)","A",0,0,0
+2012,"Adult","East Melbourne","M",1803,440.660412,872.50761576
+2011,"Adult","Melbourne (CBD)","M",3366,822.663864,1628.87445072
+2011,"Adult","Carlton","M",5551,1356.686604,2686.23947592
+2012,"Adult","Melbourne (Remainder)","F",0,0,0
+2012,"Adult","East Melbourne","F",1925,367.27614,727.2067572
+2011,"Adult","Melbourne (CBD)","F",3139,598.8985992,1185.819226416
+2011,"Adult","Carlton","F",5954,1135.9803312,2249.241055776
+2012,"Adult","Melbourne (Remainder)","A",0,0,0
+2012,"Adult","East Melbourne","A",3728,811.2068352,1606.189533696
+2011,"Adult","Melbourne (CBD)","A",6505,1415.477592,2802.64563216
+2011,"Adult","Carlton","A",11505,2503.469592,4956.86979216
+2012,"Adult","Southbank","M",2304,563.106816,1114.95149568
+2012,"Adult","Melbourne (Remainder)","M",31,7.576524,15.00151752
+2011,"Adult","North Melbourne","M",4645,1135.25658,2247.8080284
+2011,"Adult","Docklands","M",2664,651.092256,1289.16266688
+2012,"Adult","Southbank","F",2025,386.35542,764.9837316
+2012,"Adult","Melbourne (Remainder)","F",47,8.9672616,17.755177968
+2011,"Adult","North Melbourne","F",4574,872.6862672,1727.918809056
+2011,"Adult","Docklands","F",2337,445.8827736,882.847891728
+2012,"Adult","Southbank","A",4329,941.9834736,1865.127277728
+2012,"Adult","Melbourne (Remainder)","A",78,16.9726752,33.605896896
+2011,"Adult","North Melbourne","A",9219,2006.0396496,3971.958506208
+2011,"Adult","Docklands","A",5001,1088.2095984,2154.655004832
+2012,"Adult","Southbank","M",3607,881.565228,1745.49915144
+2012,"Adult","Kensington","M",3737,913.337748,1808.40874104
+2011,"Adult","Melbourne (Remainder)","M",0,0,0
+2011,"Adult","East Melbourne","M",1822,445.304088,881.70209424
+2012,"Adult","Southbank","F",3404,649.4586912,1285.928208576
+2012,"Adult","Kensington","F",3865,737.414172,1460.08006056
+2011,"Adult","Melbourne (Remainder)","F",0,0,0
+2011,"Adult","East Melbourne","F",1944,370.9012032,734.384382336
+2012,"Adult","Southbank","A",7011,1525.5823824,3020.653117152
+2012,"Adult","Kensington","A",7602,1654.1830368,3275.282412864
+2011,"Adult","Melbourne (Remainder)","A",0,0,0
+2011,"Adult","East Melbourne","A",3766,819.4755744,1622.561637312
+2012,"Adult","West Melbourne (Residential)","M",1938,473.654952,937.83680496
+2012,"Adult","Parkville","M",2123,518.869692,1027.36199016
+2011,"Adult","Southbank","M",2083,509.093532,1008.00519336
+2011,"Adult","Melbourne (Remainder)","M",28,6.843312,13.54975776
+2012,"Adult","West Melbourne (Residential)","F",1401,267.3007128,529.255411344
+2012,"Adult","Parkville","F",2204,420.5073312,832.604515776
+2011,"Adult","Southbank","F",1799,343.2362472,679.607769456
+2011,"Adult","Melbourne (Remainder)","F",46,8.7764688,17.377408224
+2012,"Adult","West Melbourne (Residential)","A",3339,726.5610576,1438.590894048
+2012,"Adult","Parkville","A",4327,941.5482768,1864.265588064
+2011,"Adult","Southbank","A",3882,844.7169888,1672.539637824
+2011,"Adult","Melbourne (Remainder)","A",74,16.1022816,31.882517568
+2012,"Adult","Port Melbourne","M",5075,1240.3503,2455.893594
+2012,"Adult","South Yarra","M",2042,499.072968,988.16447664
+2011,"Adult","Southbank","M",3209,784.292436,1552.89902328
+2011,"Adult","Kensington","M",3687,901.117548,1784.21274504
+2012,"Adult","Port Melbourne","F",5503,1049.9327784,2078.866901232
+2012,"Adult","South Yarra","F",2134,407.1518352,806.160633696
+2011,"Adult","Southbank","F",2989,570.2796792,1129.153764816
+2011,"Adult","Kensington","F",3823,729.4008744,1444.213731312
+2012,"Adult","Port Melbourne","A",10578,2301.7558752,4557.476632896
+2012,"Adult","South Yarra","A",4176,908.6909184,1799.208018432
+2011,"Adult","Southbank","A",6198,1348.6748832,2670.376268736
+2011,"Adult","Kensington","A",7510,1634.163984,3235.64468832
+2012,"Adult","Port Melbourne","M",35,8.55414,16.9371972
+2012,"Adult","West Melbourne (Industrial)","M",0,0,0
+2011,"Adult","West Melbourne (Residential)","M",1792,437.971968,867.18449664
+2011,"Adult","Parkville","M",2013,491.985252,974.13079896
+2012,"Adult","Port Melbourne","F",19,3.6250632,7.177625136
+2012,"Adult","West Melbourne (Industrial)","F",0,0,0
+2011,"Adult","West Melbourne (Residential)","F",1258,240.0173424,475.234337952
+2011,"Adult","Parkville","F",2147,409.6321416,811.071640368
+2012,"Adult","Port Melbourne","A",54,11.7503136,23.265620928
+2012,"Adult","West Melbourne (Industrial)","A",0,0,0
+2011,"Adult","West Melbourne (Residential)","A",3050,663.67512,1314.0767376
+2011,"Adult","Parkville","A",4160,905.209344,1792.31450112
+2013,"Adult","Carlton","M",5920,1446.87168,2864.8059264
+2012,"Adult","Melbourne (CBD)","M",3563,870.811452,1724.20667496
+2011,"Adult","Port Melbourne","M",4970,1214.68788,2405.0820024
+2011,"Adult","South Yarra","M",2083,509.093532,1008.00519336
+2013,"Adult","Carlton","F",6413,1223.5542264,2422.637368272
+2012,"Adult","Melbourne (CBD)","F",3298,629.2346544,1245.884615712
+2014,"Adult","East Melbourne","A",3713,807.9428592,1599.726861216
+2013,"Adult","Melbourne (CBD)","A",8993,1956.8624112,3874.587574176
+2013,"Adult","Carlton","A",12333,2683.6410672,5313.609313056
+2012,"Adult","Melbourne (CBD)","A",6861,1492.9426224,2956.026392352
+2014,"Adult","Melbourne (Remainder)","M",37,9.042948,17.90503704
+2013,"Adult","North Melbourne","M",5094,1244.993976,2465.08807248
+2013,"Adult","Docklands","M",3396,829.995984,1643.39204832
+2012,"Adult","Melbourne (CBD)","M",3183,777.937932,1540.31710536
+2014,"Adult","Melbourne (Remainder)","F",47,8.9672616,17.755177968
+2013,"Adult","North Melbourne","F",5200,992.12256,1964.4026688
+2013,"Adult","Docklands","F",3044,580.7732832,1149.931100736
+2012,"Adult","Melbourne (CBD)","F",3273,624.4648344,1236.440372112
+2014,"Adult","Melbourne (Remainder)","A",84,18.2782656,36.190965888
+2013,"Adult","North Melbourne","A",10294,2239.9579296,4435.116700608
+2013,"Adult","Docklands","A",6440,1401.333696,2774.64071808
+2012,"Adult","Melbourne (CBD)","A",6456,1404.8152704,2781.534235392
+2014,"Adult","Kensington","M",3852,941.444208,1864.05953184
+2013,"Adult","Melbourne (Remainder)","M",0,0,0
+2013,"Adult","East Melbourne","M",1792,437.971968,867.18449664
+2012,"Adult","Melbourne (CBD)","M",3857,942.666228,1866.47913144
+2014,"Adult","Kensington","F",4022,767.3686416,1519.389910368
+2013,"Adult","Melbourne (Remainder)","F",0,0,0
+2013,"Adult","East Melbourne","F",1921,366.5129688,725.695678224
+2012,"Adult","Melbourne (CBD)","F",3631,692.7686568,1371.681940464
+2014,"Adult","Kensington","A",7874,1713.3698016,3392.472207168
+2013,"Adult","Melbourne (Remainder)","A",0,0,0
+2013,"Adult","East Melbourne","A",3713,807.9428592,1599.726861216
+2012,"Adult","Melbourne (CBD)","A",7488,1629.3768192,3226.166102016
+2014,"Adult","Parkville","M",2299,561.884796,1112.53189608
+2013,"Adult","Southbank","M",2586,632.028744,1251.41691312
+2013,"Adult","Melbourne (Remainder)","M",32,7.820928,15.48543744
+2012,"Adult","North Melbourne","M",4859,1187.559036,2351.36689128
+2014,"Adult","Parkville","F",2336,445.6919808,882.470121984
+2013,"Adult","Southbank","F",2343,447.0275304,885.114510192
+2013,"Adult","Melbourne (Remainder)","F",48,9.1580544,18.132947712
+2012,"Adult","North Melbourne","F",4865,928.206972,1837.84980456
+2014,"Adult","Parkville","A",4635,1008.568584,1996.96579632
+2013,"Adult","Southbank","A",4929,1072.5425136,2123.634176928
+2013,"Adult","Melbourne (Remainder)","A",80,17.407872,34.46758656
+2012,"Adult","North Melbourne","A",9724,2115.9268416,4189.535146368
+2014,"Adult","South Yarra","M",1973,482.209092,954.77400216
+2013,"Adult","Southbank","M",4209,1028.696436,2036.81894328
+2013,"Adult","Kensington","M",3797,928.001988,1837.44393624
+2012,"Adult","Melbourne (Remainder)","M",0,0,0
+2014,"Adult","South Yarra","F",2144,409.0597632,809.938331136
+2013,"Adult","Southbank","F",4003,763.7435784,1512.212285232
+2013,"Adult","Kensington","F",3939,751.5328392,1488.035021616
+2014,"Adult","Port Melbourne","A",11039,2402.0687376,4756.096100448
+2014,"Adult","South Yarra","A",4117,895.8526128,1773.788173344
+2013,"Adult","Southbank","A",8212,1786.9180608,3538.097760384
+2013,"Adult","Kensington","A",7736,1683.3412224,3333.015620352
+2014,"Adult","Port Melbourne","M",42,10.264968,20.32463664
+2014,"Adult","West Melbourne (Industrial)","M",0,0,0
+2013,"Adult","West Melbourne (Residential)","M",2105,514.47042,1018.6514316
+2013,"Adult","Parkville","M",2216,541.599264,1072.36654272
+2014,"Adult","Port Melbourne","F",29,5.5329912,10.955322576
+2014,"Adult","West Melbourne (Industrial)","F",0,0,0
+2013,"Adult","West Melbourne (Residential)","F",1570,299.544696,593.09849808
+2013,"Adult","Parkville","F",2286,436.1523408,863.581634784
+2014,"Adult","Port Melbourne","A",71,15.4494864,30.589983072
+2014,"Adult","West Melbourne (Industrial)","A",0,0,0
+2013,"Adult","West Melbourne (Residential)","A",3675,799.67412,1583.3547576
+2013,"Adult","Parkville","A",4502,979.6279968,1939.663433664
+2015,"Adult","Carlton","M",6490,1586.18196,3140.6402808
+2014,"Adult","Melbourne (CBD)","M",4340,1060.71336,2100.2124528
+2013,"Adult","Port Melbourne","M",5196,1269.923184,2514.44790432
+2013,"Adult","South Yarra","M",1998,488.319192,966.87200016
+2015,"Adult","Carlton","F",7197,1373.1357816,2718.808847568
+2014,"Adult","Melbourne (CBD)","F",4123,786.6387144,1557.544654512
+2013,"Adult","Port Melbourne","F",5637,1075.4990136,2129.488046928
+2013,"Adult","South Yarra","F",2141,408.4873848,808.805021904
+2015,"Adult","Carlton","A",13687,2978.2693008,5896.973215584
+2014,"Adult","Melbourne (CBD)","A",8463,1841.5352592,3646.239813216
+2013,"Adult","Port Melbourne","A",10833,2357.2434672,4667.342065056
+2013,"Adult","South Yarra","A",4139,900.6397776,1783.266759648
+2015,"Adult","Docklands","M",4358,1065.112632,2108.92301136
+2014,"Adult","Melbourne (CBD)","M",4371,1068.289884,2115.21397032
+2013,"Adult","Port Melbourne","M",43,10.509372,20.80855656
+2013,"Adult","West Melbourne (Industrial)","M",0,0,0
+2015,"Adult","Docklands","F",3987,760.6908936,1506.167969328
+2014,"Adult","Melbourne (CBD)","F",4686,894.0550608,1770.229020384
+2013,"Adult","Port Melbourne","F",22,4.1974416,8.310934368
+2013,"Adult","West Melbourne (Industrial)","F",0,0,0
+2015,"Adult","Docklands","A",8345,1815.858648,3595.40012304
+2014,"Adult","Melbourne (CBD)","A",9057,1970.7887088,3902.161643424
+2013,"Adult","Port Melbourne","A",65,14.143896,28.00491408
+2013,"Adult","West Melbourne (Industrial)","A",0,0,0
+2015,"Adult","East Melbourne","M",1771,432.839484,857.02217832
+2014,"Adult","Melbourne (CBD)","M",5186,1267.479144,2509.60870512
+2014,"Adult","Carlton","M",6213,1518.482052,3006.59446296
+2013,"Adult","Melbourne (CBD)","M",4034,985.925736,1952.13295728
+2015,"Adult","East Melbourne","F",1925,367.27614,727.2067572
+2014,"Adult","Melbourne (CBD)","F",5055,964.457604,1909.62605592
+2014,"Adult","Carlton","F",6800,1297.39104,2568.8342592
+2013,"Adult","Melbourne (CBD)","F",3809,726.7297752,1438.924954896
+2015,"Adult","East Melbourne","A",3696,804.2436864,1592.402499072
+2014,"Adult","Melbourne (CBD)","A",10241,2228.4252144,4412.281924512
+2014,"Adult","Carlton","A",13013,2831.6079792,5606.583798816
+2013,"Adult","Melbourne (CBD)","A",7843,1706.6242512,3379.116017376
+2015,"Adult","Melbourne (Remainder)","M",38,9.287352,18.38895696
+2014,"Adult","North Melbourne","M",5268,1287.520272,2549.29013856
+2014,"Adult","Docklands","M",3859,943.155036,1867.44697128
+2013,"Adult","Melbourne (CBD)","M",3792,926.779968,1835.02433664
+2015,"Adult","Melbourne (Remainder)","F",46,8.7764688,17.377408224
+2014,"Adult","North Melbourne","F",5447,1039.2483816,2057.711795568
+2014,"Adult","Docklands","F",3493,666.4392504,1319.549715792
+2013,"Adult","Melbourne (CBD)","F",3982,759.7369296,1504.279120608
+2015,"Adult","Melbourne (Remainder)","A",84,18.2782656,36.190965888
+2014,"Adult","North Melbourne","A",10715,2331.566856,4616.50237488
+2014,"Adult","Docklands","A",7352,1599.7834368,3167.571204864
+2013,"Adult","Melbourne (CBD)","A",7774,1691.6099616,3349.387723968
+2015,"Adult","Kensington","M",3906,954.642024,1890.19120752
+2014,"Adult","Melbourne (Remainder)","M",0,0,0
+2014,"Adult","East Melbourne","M",1782,435.527928,862.34529744
+2013,"Adult","Melbourne (CBD)","M",4585,1120.59234,2218.7728332
+2015,"Adult","Kensington","F",4095,781.296516,1546.96710168
+2014,"Adult","Melbourne (Remainder)","F",0,0,0
+2014,"Adult","East Melbourne","F",1931,368.4208968,729.473375664
+2013,"Adult","Melbourne (CBD)","F",4408,841.0146624,1665.209031552
+2015,"Adult","Kensington","A",8001,1741.0047984,3447.189500832
+2014,"Adult","Melbourne (Remainder)","A",0,0,0
+2016,"Adult","West Melbourne (Industrial)","M",2,0.488808,0.96783984
+2015,"Adult","West Melbourne (Residential)","M",2439,596.101356,1180.28068488
+2015,"Adult","Parkville","M",2386,583.147944,1154.63292912
+2014,"Adult","Southbank","M",2705,661.11282,1309.0033836
+2016,"Adult","West Melbourne (Industrial)","F",1,0.1907928,0.377769744
+2015,"Adult","West Melbourne (Residential)","F",1875,357.7365,708.31827
+2015,"Adult","Parkville","F",2392,456.3763776,903.625227648
+2014,"Adult","Southbank","F",2497,476.4096216,943.291050768
+2016,"Adult","West Melbourne (Industrial)","A",3,0.6527952,1.292534496
+2015,"Adult","West Melbourne (Residential)","A",4314,938.7194976,1858.664605248
+2015,"Adult","Parkville","A",4778,1039.6851552,2058.576607296
+2014,"Adult","Southbank","A",5202,1131.9468768,2241.254816064
+2016,"Adult","Melbourne (CBD)","M",4779,1168.006716,2312.65329768
+2015,"Adult","Port Melbourne","M",5322,1300.718088,2575.42181424
+2015,"Adult","South Yarra","M",1939,473.899356,938.32072488
+2014,"Adult","Southbank","M",4648,1135.989792,2249.25978816
+2016,"Adult","Melbourne (CBD)","F",4612,879.9363936,1742.274059328
+2015,"Adult","Port Melbourne","F",5858,1117.6642224,2212.975160352
+2015,"Adult","South Yarra","F",2138,407.9150064,807.671712672
+2014,"Adult","Southbank","F",4423,843.8765544,1670.875577712
+2016,"Adult","Melbourne (CBD)","A",9391,2043.4665744,4046.063817312
+2015,"Adult","Port Melbourne","A",11180,2432.750112,4816.84522176
+2015,"Adult","South Yarra","A",4077,887.1486768,1756.554380064
+2014,"Adult","Southbank","A",9071,1973.8350864,3908.193471072
+2016,"Adult","Melbourne (CBD)","M",5435,1328.33574,2630.1047652
+2015,"Adult","Port Melbourne","M",46,11.242584,22.26031632
+2015,"Adult","West Melbourne (Industrial)","M",0,0,0
+2014,"Adult","West Melbourne (Residential)","M",2271,555.041484,1098.98213832
+2016,"Adult","Melbourne (CBD)","F",5959,1136.9342952,2251.129904496
+2015,"Adult","Port Melbourne","F",36,6.8685408,13.599710784
+2015,"Adult","West Melbourne (Industrial)","F",0,0,0
+2014,"Adult","West Melbourne (Residential)","F",1726,329.3083728,652.030578144
+2016,"Adult","Melbourne (CBD)","A",11394,2479.3161696,4909.046015808
+2015,"Adult","Port Melbourne","A",82,17.8430688,35.329276224
+2015,"Adult","West Melbourne (Industrial)","A",0,0,0
+2014,"Adult","West Melbourne (Residential)","A",3997,869.7408048,1722.086793504
+2016,"Adult","Melbourne (CBD)","M",6217,1519.459668,3008.53014264
+2016,"Adult","Carlton","M",6833,1670.012532,3306.62481336
+2015,"Adult","Melbourne (CBD)","M",4538,1109.105352,2196.02859696
+2014,"Adult","Port Melbourne","M",5273,1288.742292,2551.70973816
+2016,"Adult","Melbourne (CBD)","F",6106,1164.9808368,2306.662056864
+2016,"Adult","Carlton","F",7685,1466.242668,2903.16048264
+2015,"Adult","Melbourne (CBD)","F",4346,829.1855088,1641.787307424
+2014,"Adult","Port Melbourne","F",5766,1100.1112848,2178.220343904
+2016,"Adult","Melbourne (CBD)","A",12323,2681.4650832,5309.300864736
+2016,"Adult","Carlton","A",14518,3159.0935712,6255.005270976
+2015,"Adult","Melbourne (CBD)","A",8884,1933.1441856,3827.625487488
+2017,"Adult","Melbourne (Remainder)","M",33,8.065332,15.96935736
+2016,"Adult","North Melbourne","M",5780,1412.65512,2797.0571376
+2016,"Adult","Docklands","M",4900,1197.5796,2371.207608
+2015,"Adult","Melbourne (CBD)","M",4940,1207.35576,2390.5644048
+2017,"Adult","Melbourne (Remainder)","F",41,7.8225048,15.488559504
+2016,"Adult","North Melbourne","F",6129,1169.3690712,2315.350760976
+2016,"Adult","Docklands","F",4533,864.8637624,1712.430249552
+2015,"Adult","Melbourne (CBD)","F",5356,1021.8862368,2023.334748864
+2017,"Adult","Melbourne (Remainder)","A",74,16.1022816,31.882517568
+2016,"Adult","North Melbourne","A",11909,2591.3793456,5130.931104288
+2016,"Adult","Docklands","A",9433,2052.6057072,4064.159300256
+2015,"Adult","Melbourne (CBD)","A",10296,2240.3931264,4435.978390272
+2017,"Adult","Kensington","M",3925,959.2857,1899.385686
+2016,"Adult","Melbourne (Remainder)","M",0,0,0
+2016,"Adult","East Melbourne","M",1785,436.26114,863.7970572
+2015,"Adult","Melbourne (CBD)","M",5726,1399.457304,2770.92546192
+2017,"Adult","Kensington","F",4107,783.5860296,1551.500338608
+2016,"Adult","Melbourne (Remainder)","F",0,0,0
+2016,"Adult","East Melbourne","F",1923,366.8945544,726.451217712
+2015,"Adult","Melbourne (CBD)","F",5633,1074.7358424,2127.976967952
+2017,"Adult","Kensington","A",8032,1747.7503488,3460.545690624
+2016,"Adult","Melbourne (Remainder)","A",0,0,0
+2016,"Adult","East Melbourne","A",3708,806.8548672,1597.572637056
+2015,"Adult","Melbourne (CBD)","A",11359,2471.7002256,4893.966446688
+2017,"Adult","Parkville","M",2523,616.631292,1220.92995816
+2016,"Adult","Southbank","M",2988,730.279152,1445.95272096
+2016,"Adult","Melbourne (Remainder)","M",35,8.55414,16.9371972
+2015,"Adult","North Melbourne","M",5497,1343.488788,2660.10780024
+2017,"Adult","Parkville","F",2584,493.0085952,976.157018496
+2016,"Adult","Southbank","F",2805,535.173804,1059.64413192
+2016,"Adult","Melbourne (Remainder)","F",44,8.3948832,16.621868736
+2015,"Adult","North Melbourne","F",5766,1100.1112848,2178.220343904
+2017,"Adult","Parkville","A",5107,1111.2750288,2200.324557024
+2016,"Adult","Southbank","A",5793,1260.5475312,2495.884111776
+2016,"Adult","Melbourne (Remainder)","A",79,17.1902736,34.036741728
+2015,"Adult","North Melbourne","A",11263,2450.8107792,4852.605342816
+2017,"Adult","South Yarra","M",1990,486.36396,963.0006408
+2016,"Adult","Southbank","M",5553,1357.175412,2687.20731576
+2016,"Adult","Kensington","M",3950,965.3958,1911.483684
+2015,"Adult","Melbourne (Remainder)","M",0,0,0
+2017,"Adult","South Yarra","F",2269,432.9088632,857.159549136
+2016,"Adult","Southbank","F",5312,1013.4913536,2006.712880128
+2016,"Adult","Kensington","F",4162,794.0796336,1572.277674528
+2015,"Adult","Melbourne (Remainder)","F",0,0,0
+2017,"Adult","South Yarra","A",4259,926.7515856,1834.968139488
+2016,"Adult","Southbank","A",10865,2364.206616,4681.12909968
+2016,"Adult","Kensington","A",8112,1765.1582208,3495.013277184
+2015,"Adult","Melbourne (Remainder)","A",0,0,0
+2017,"Adult","West Melbourne (Industrial)","M",2,0.488808,0.96783984
+2016,"Adult","West Melbourne (Residential)","M",2601,635.694804,1258.67571192
+2016,"Adult","Parkville","M",2443,597.078972,1182.21636456
+2015,"Adult","Southbank","M",2844,695.084976,1376.26825248
+2017,"Adult","West Melbourne (Industrial)","F",1,0.1907928,0.377769744
+2016,"Adult","West Melbourne (Residential)","F",2046,390.3620688,772.916896224
+2016,"Adult","Parkville","F",2462,469.7318736,930.069109728
+2015,"Adult","Southbank","F",2625,500.8311,991.645578
+2017,"Adult","West Melbourne (Industrial)","A",3,0.6527952,1.292534496
+2016,"Adult","West Melbourne (Residential)","A",4647,1011.1797648,2002.135934304
+2016,"Adult","Parkville","A",4905,1067.320152,2113.29390096
+2015,"Adult","Southbank","A",5469,1190.0456496,2356.290386208
+2017,"Adult","Melbourne (CBD)","M",4900,1197.5796,2371.207608
+2016,"Adult","Port Melbourne","M",5338,1304.628552,2583.16453296
+2016,"Adult","South Yarra","M",1900,464.3676,919.447848
+2015,"Adult","Southbank","M",5012,1224.952848,2425.40663904
+2017,"Adult","Melbourne (CBD)","F",4716,899.7788448,1781.562112704
+2016,"Adult","Port Melbourne","F",5864,1118.8089792,2215.241778816
+2016,"Adult","South Yarra","F",2162,412.4940336,816.738186528
+2015,"Adult","Southbank","F",4802,916.1870256,1814.050310688
+2017,"Adult","Melbourne (CBD)","A",9616,2092.4262144,4143.003904512
+2016,"Adult","Port Melbourne","A",11202,2437.5372768,4826.323808064
+2016,"Adult","South Yarra","A",4062,883.8847008,1750.091707584
+2015,"Adult","Southbank","A",9814,2135.5106976,4228.311181248
+2017,"Adult","Melbourne (CBD)","M",6259,1529.724636,3028.85477928
+2016,"Adult","Port Melbourne","M",53,12.953412,25.64775576
+2018,"Adult","North Melbourne","F",6455,1231.567524,2438.50369752
+2018,"Adult","Docklands","F",5923,1130.0657544,2237.530193712
+2017,"Adult","Melbourne (CBD)","F",6661,1270.8708408,2516.324264784
+2016,"Adult","Port Melbourne","F",36,6.8685408,13.599710784
+2018,"Adult","North Melbourne","A",12668,2756.5365312,5457.942331776
+2018,"Adult","Docklands","A",12422,2703.0073248,5351.954503104
+2017,"Adult","Melbourne (CBD)","A",12920,2811.371328,5566.51522944
+2016,"Adult","Port Melbourne","A",89,19.3662576,38.345190048
+2018,"Adult","Melbourne (Remainder)","M",0,0,0
+2018,"Adult","East Melbourne","M",1724,421.352496,834.27794208
+2017,"Adult","Melbourne (CBD)","M",7391,1806.389964,3576.65212872
+2017,"Adult","Carlton","M",7144,1746.022176,3457.12390848
+2018,"Adult","Melbourne (Remainder)","F",0,0,0
+2018,"Adult","East Melbourne","F",1850,352.96668,698.8740264
+2017,"Adult","Melbourne (CBD)","F",7219,1377.3332232,2727.119781936
+2017,"Adult","Carlton","F",7884,1504.2104352,2978.336661696
+2018,"Adult","Melbourne (Remainder)","A",0,0,0
+2018,"Adult","East Melbourne","A",3574,777.6966816,1539.839429568
+2017,"Adult","Melbourne (CBD)","A",14610,3179.112624,6294.64299552
+2017,"Adult","Carlton","A",15028,3270.0687552,6474.736135296
+2018,"Adult","Southbank","M",3120,762.54048,1509.8301504
+2018,"Adult","Melbourne (Remainder)","M",35,8.55414,16.9371972
+2017,"Adult","North Melbourne","M",6019,1471.067676,2912.71399848
+2017,"Adult","Docklands","M",5809,1419.742836,2811.09081528
+2018,"Adult","Southbank","F",2871,547.7661288,1084.576935024
+2018,"Adult","Melbourne (Remainder)","F",39,7.4409192,14.733020016
+2017,"Adult","North Melbourne","F",6298,1201.6130544,2379.193847712
+2017,"Adult","Docklands","F",5342,1019.2151376,2018.045972448
+2018,"Adult","Southbank","A",5991,1303.6320144,2581.191388512
+2018,"Adult","Melbourne (Remainder)","A",74,16.1022816,31.882517568
+2017,"Adult","North Melbourne","A",12317,2680.1594928,5306.715795744
+2017,"Adult","Docklands","A",11151,2426.4397584,4804.350721632
+2018,"Adult","Southbank","M",6755,1650.94902,3268.8790596
+2018,"Adult","Kensington","M",3890,950.73156,1882.4484888
+2017,"Adult","Melbourne (Remainder)","M",0,0,0
+2017,"Adult","East Melbourne","M",1764,431.128656,853.63473888
+2018,"Adult","Southbank","F",6366,1214.5869648,2404.882190304
+2018,"Adult","Kensington","F",4064,775.3819392,1535.256239616
+2017,"Adult","Melbourne (Remainder)","F",0,0,0
+2017,"Adult","East Melbourne","F",1896,361.7431488,716.251434624
+2018,"Adult","Southbank","A",13121,2855.1086064,5653.115040672
+2018,"Adult","Kensington","A",7954,1730.7776736,3426.939793728
+2017,"Adult","Melbourne (Remainder)","A",0,0,0
+2017,"Adult","East Melbourne","A",3660,796.410144,1576.89208512
+2018,"Adult","West Melbourne (Residential)","M",2947,720.258588,1426.11200424
+2018,"Adult","Parkville","M",2538,620.297352,1228.18875696
+2017,"Adult","Southbank","M",3069,750.075876,1485.15023448
+2019,"Adult","West Melbourne (Industrial)","F",0,0,0
+2018,"Adult","West Melbourne (Residential)","F",2516,480.0346848,950.468675904
+2018,"Adult","Parkville","F",2612,498.3507936,986.734571328
+2017,"Adult","Southbank","F",2838,541.4699664,1072.110533472
+2019,"Adult","West Melbourne (Industrial)","A",0,0,0
+2018,"Adult","West Melbourne (Residential)","A",5463,1188.7400592,2353.705317216
+2018,"Adult","Parkville","A",5150,1120.63176,2218.8508848
+2017,"Adult","Southbank","A",5907,1285.3537488,2545.000422624
+2019,"Adult","Melbourne (CBD)","M",5252,1283.609808,2541.54741984
+2018,"Adult","Port Melbourne","M",5082,1242.061128,2459.28103344
+2018,"Adult","South Yarra","M",2024,494.673696,979.45391808
+2017,"Adult","Southbank","M",6055,1479.86622,2930.1351156
+2019,"Adult","Melbourne (CBD)","F",5034,960.4509552,1901.692891296
+2018,"Adult","Port Melbourne","F",5581,1064.8146168,2108.332941264
+2018,"Adult","South Yarra","F",2300,438.82344,868.8704112
+2017,"Adult","Southbank","F",5754,1097.8217712,2173.687106976
+2019,"Adult","Melbourne (CBD)","A",10286,2238.2171424,4431.669941952
+2018,"Adult","Port Melbourne","A",10663,2320.2517392,4594.098443616
+2018,"Adult","South Yarra","A",4324,940.8954816,1862.973053568
+2017,"Adult","Southbank","A",11809,2569.6195056,5087.846621088
+2019,"Adult","Melbourne (CBD)","M",7715,1885.57686,3733.4421828
+2018,"Adult","Port Melbourne","M",357,87.252228,172.75941144
+2018,"Adult","West Melbourne (Industrial)","M",2,0.488808,0.96783984
+2017,"Adult","West Melbourne (Residential)","M",2763,675.288252,1337.07073896
+2019,"Adult","Melbourne (CBD)","F",7962,1519.0922736,3007.802701728
+2018,"Adult","Port Melbourne","F",313,59.7181464,118.241929872
+2018,"Adult","West Melbourne (Industrial)","F",0,0,0
+2017,"Adult","West Melbourne (Residential)","F",2266,432.3364848,856.026239904
+2019,"Adult","Melbourne (CBD)","A",15677,3411.2901168,6754.354431264
+2018,"Adult","Port Melbourne","A",670,145.790928,288.66603744
+2018,"Adult","West Melbourne (Industrial)","A",2,0.4351968,0.861689664
+2017,"Adult","West Melbourne (Residential)","A",5029,1094.3023536,2166.718660128
+2019,"Adult","Melbourne (CBD)","M",8394,2051.527176,4062.02380848
+2019,"Adult","Carlton","M",7661,1872.379044,3707.31050712
+2018,"Adult","Melbourne (CBD)","M",5128,1253.303712,2481.54134976
+2017,"Adult","Port Melbourne","M",5225,1277.0109,2528.481582
+2019,"Adult","Melbourne (CBD)","F",8106,1546.5664368,3062.201544864
+2019,"Adult","Carlton","F",8218,1567.9352304,3104.511756192
+2018,"Adult","Melbourne (CBD)","F",4922,939.0821616,1859.382679968
+2017,"Adult","Port Melbourne","F",5735,1094.196708,2166.50948184
+2019,"Adult","Melbourne (CBD)","A",16500,3590.3736,7108.939728
+2019,"Adult","Carlton","A",15879,3455.2449936,6841.385087328
+2018,"Adult","Melbourne (CBD)","A",10050,2186.86392,4329.9905616
+2017,"Adult","Port Melbourne","A",10960,2384.878464,4722.05935872
+2019,"Adult","North Melbourne","M",6318,1544.144472,3057.40605456
+2019,"Adult","Docklands","M",6953,1699.341012,3364.69520376
+2018,"Adult","Melbourne (CBD)","M",7007,1712.538828,3390.82687944
+2017,"Adult","Port Melbourne","M",169,41.304276,81.78246648
+2019,"Adult","North Melbourne","F",6523,1244.5414344,2464.192040112
+2019,"Adult","Docklands","F",6292,1200.4682976,2376.927229248
+2018,"Adult","Melbourne (CBD)","F",7323,1397.1756744,2766.407835312
+2017,"Adult","Port Melbourne","F",146,27.8557488,55.154382624
+2019,"Adult","North Melbourne","A",12841,2794.1810544,5532.478487712
+2019,"Adult","Docklands","A",13245,2882.090808,5706.53979984
+2018,"Adult","Melbourne (CBD)","A",14330,3118.185072,6174.00644256
+2017,"Adult","Port Melbourne","A",315,68.543496,135.71612208
+2019,"Adult","Melbourne (Remainder)","M",0,0,0
+2019,"Adult","East Melbourne","M",1711,418.175244,827.98698312
+2018,"Adult","Melbourne (CBD)","M",8003,1955.965212,3872.81111976
+2018,"Adult","Carlton","M",7387,1805.412348,3574.71644904
+2019,"Adult","Melbourne (Remainder)","F",0,0,0
+2019,"Adult","East Melbourne","F",1819,347.0521032,687.163164336
+2018,"Adult","Melbourne (CBD)","F",7772,1482.8416416,2936.026450368
+2018,"Adult","Carlton","F",8058,1537.4083824,3044.068597152
+2019,"Adult","Melbourne (Remainder)","A",0,0,0
+2019,"Adult","East Melbourne","A",3530,768.122352,1520.88225696
+2018,"Adult","Melbourne (CBD)","A",15775,3432.61476,6796.5772248
+2018,"Adult","Carlton","A",15445,3360.807288,6654.39843024
+2019,"Adult","Southbank","M",3173,775.493892,1535.47790616
+2019,"Adult","Melbourne (Remainder)","M",38,9.287352,18.38895696
+2018,"Adult","North Melbourne","M",6213,1518.482052,3006.59446296
+2018,"Adult","Docklands","M",6499,1588.381596,3144.99556008
+2019,"Adult","Southbank","F",2930,559.022904,1106.86534992
+2019,"Adult","Melbourne (Remainder)","F",34,6.4869552,12.844171296
+2020,"Adult","West Melbourne (Residential)","A",6318,1374.7866912,2722.077648576
+2020,"Adult","Parkville","A",5226,1137.1692384,2251.595092032
+2019,"Adult","Southbank","A",6103,1328.0030352,2629.446009696
+2019,"Adult","Melbourne (Remainder)","A",72,15.6670848,31.020827904
+2020,"Adult","Port Melbourne","M",4761,1163.607444,2303.94273912
+2020,"Adult","South Yarra","M",2021,493.940484,978.00215832
+2019,"Adult","Southbank","M",7319,1788.792876,3541.80989448
+2019,"Adult","Kensington","M",3909,955.375236,1891.64296728
+2020,"Adult","Port Melbourne","F",5289,1009.1031192,1998.024176016
+2020,"Adult","South Yarra","F",2215,422.606052,836.75998296
+2019,"Adult","Southbank","F",6837,1304.4503736,2582.811739728
+2019,"Adult","Kensington","F",4095,781.296516,1546.96710168
+2020,"Adult","Port Melbourne","A",10050,2186.86392,4329.9905616
+2020,"Adult","South Yarra","A",4236,921.7468224,1825.058708352
+2019,"Adult","Southbank","A",14156,3080.3229504,6099.039441792
+2019,"Adult","Kensington","A",8004,1741.6575936,3448.482035328
+2020,"Adult","Port Melbourne","M",768,187.702272,371.65049856
+2020,"Adult","West Melbourne (Industrial)","M",0,0,0
+2019,"Adult","West Melbourne (Residential)","M",3139,767.184156,1519.02462888
+2019,"Adult","Parkville","M",2565,626.89626,1241.2545948
+2020,"Adult","Port Melbourne","F",679,129.5483112,256.505656176
+2020,"Adult","West Melbourne (Industrial)","F",0,0,0
+2019,"Adult","West Melbourne (Residential)","F",2762,526.9697136,1043.400032928
+2019,"Adult","Parkville","F",2622,500.2587216,990.512268768
+2020,"Adult","Port Melbourne","A",1447,314.8648848,623.432471904
+2020,"Adult","West Melbourne (Industrial)","A",0,0,0
+2019,"Adult","West Melbourne (Residential)","A",5901,1284.0481584,2542.415353632
+2019,"Adult","Parkville","A",5187,1128.6829008,2234.792143584
+2021,"Adult","Carlton","M",6639,1622.598156,3212.74434888
+2020,"Adult","Melbourne (CBD)","M",5214,1274.322456,2523.15846288
+2019,"Adult","Port Melbourne","M",4942,1207.844568,2391.53224464
+2019,"Adult","South Yarra","M",2072,506.405088,1002.68207424
+2021,"Adult","Carlton","F",6572,1253.8902816,2482.702757568
+2020,"Adult","Melbourne (CBD)","F",4993,952.6284504,1886.204331792
+2019,"Adult","Port Melbourne","F",5469,1043.4458232,2066.022729936
+2019,"Adult","South Yarra","F",2302,439.2050256,869.625950688
+2021,"Adult","Carlton","A",13211,2874.6924624,5691.891075552
+2020,"Adult","Melbourne (CBD)","A",10207,2221.0268688,4397.633200224
+2019,"Adult","Port Melbourne","A",10411,2265.4169424,4485.525545952
+2019,"Adult","South Yarra","A",4374,951.7754016,1884.515295168
+2021,"Adult","Docklands","M",6746,1648.749384,3264.52378032
+2020,"Adult","Melbourne (CBD)","M",8220,2009.00088,3977.8217424
+2019,"Adult","Port Melbourne","M",578,141.265512,279.70571376
+2019,"Adult","West Melbourne (Industrial)","M",0,0,0
+2021,"Adult","Docklands","F",6137,1170.8954136,2318.372918928
+2020,"Adult","Melbourne (CBD)","F",8482,1618.3045296,3204.242968608
+2019,"Adult","Port Melbourne","F",511,97.4951208,193.040339184
+2021,"Adult","North Melbourne","A",11556,2514.5671104,4978.842878592
+2021,"Adult","Docklands","A",12883,2803.3201872,5550.573970656
+2020,"Adult","Melbourne (CBD)","A",16702,3634.3284768,7195.970384064
+2019,"Adult","Port Melbourne","A",1089,236.9646576,469.190022048
+2021,"Adult","Melbourne (Remainder)","M",0,0,0
+2021,"Adult","East Melbourne","M",1530,373.93812,740.3974776
+2020,"Adult","Melbourne (CBD)","M",8502,2077.922808,4114.28715984
+2020,"Adult","Carlton","M",7841,1916.371764,3794.41609272
+2021,"Adult","Melbourne (Remainder)","F",0,0,0
+2021,"Adult","East Melbourne","F",1611,307.3672008,608.587057584
+2020,"Adult","Melbourne (CBD)","F",8186,1561.8298608,3092.423124384
+2020,"Adult","Carlton","F",8210,1566.408888,3101.48959824
+2021,"Adult","Melbourne (Remainder)","A",0,0,0
+2021,"Adult","East Melbourne","A",3141,683.4765744,1353.283617312
+2020,"Adult","Melbourne (CBD)","A",16688,3631.2820992,7189.938556416
+2020,"Adult","Carlton","A",16051,3492.6719184,6915.490398432
+2021,"Adult","Southbank","M",2678,654.513912,1295.93754576
+2021,"Adult","Melbourne (Remainder)","M",49,11.975796,23.71207608
+2020,"Adult","North Melbourne","M",6389,1561.497156,3091.76436888
+2020,"Adult","Docklands","M",7111,1737.956844,3441.15455112
+2021,"Adult","Southbank","F",2528,482.3241984,955.001912832
+2021,"Adult","Melbourne (Remainder)","F",27,5.1514056,10.199783088
+2020,"Adult","North Melbourne","F",6590,1257.324552,2489.50261296
+2020,"Adult","Docklands","F",6441,1228.8964248,2433.214921104
+2021,"Adult","Southbank","A",5206,1132.8172704,2242.978195392
+2021,"Adult","Melbourne (Remainder)","A",76,16.5374784,32.744207232
+2020,"Adult","North Melbourne","A",12979,2824.2096336,5591.935074528
+2020,"Adult","Docklands","A",13552,2948.8935168,5838.809163264
+2021,"Adult","Southbank","M",7241,1769.729364,3504.06414072
+2021,"Adult","Kensington","M",3605,881.07642,1744.5313116
+2020,"Adult","Melbourne (Remainder)","M",0,0,0
+2020,"Adult","East Melbourne","M",1680,410.59872,812.9854656
+2021,"Adult","Southbank","F",6844,1305.7859232,2585.456127936
+2021,"Adult","Kensington","F",3767,718.7164776,1423.058625648
+2020,"Adult","Melbourne (Remainder)","F",0,0,0
+2020,"Adult","East Melbourne","F",1775,338.65722,670.5412956
+2021,"Adult","Southbank","A",14085,3064.873464,6068.44945872
+2021,"Adult","Kensington","A",7372,1604.1354048,3176.188101504
+2020,"Adult","Melbourne (Remainder)","A",0,0,0
+2020,"Adult","East Melbourne","A",3455,751.802472,1488.56889456
+2021,"Adult","West Melbourne (Residential)","M",3331,814.109724,1611.93725352
+2021,"Adult","Parkville","M",2373,579.970692,1148.34197016
+2020,"Adult","Southbank","M",3108,759.607632,1504.02311136
+2020,"Adult","Melbourne (Remainder)","M",41,10.020564,19.84071672
+2021,"Adult","West Melbourne (Residential)","F",3027,577.5298056,1143.509015088
+2021,"Adult","Parkville","F",2302,439.2050256,869.625950688
+2020,"Adult","Southbank","F",2878,549.1016784,1087.221323232
+2020,"Adult","Melbourne (Remainder)","F",32,6.1053696,12.088631808
+2021,"Adult","West Melbourne (Residential)","A",6358,1383.4906272,2739.311441856
+2021,"Adult","Parkville","A",4675,1017.27252,2014.1995896
+2020,"Adult","Southbank","A",5986,1302.5440224,2579.037164352
+2020,"Adult","Melbourne (Remainder)","A",73,15.8846832,31.451672736
+2021,"Adult","Port Melbourne","M",4528,1106.661312,2191.18939776
+2021,"Adult","South Yarra","M",1868,456.546672,903.96241056
+2020,"Adult","Southbank","M",7628,1864.313712,3691.34114976
+2020,"Adult","Kensington","M",3824,934.600896,1850.50977408
+2021,"Adult","Port Melbourne","F",5068,966.9379104,1914.537062592
+2021,"Adult","South Yarra","F",2028,386.9277984,766.117040832
+2020,"Adult","Southbank","F",7133,1360.9250424,2694.631583952
+2020,"Adult","Kensington","F",3992,761.6448576,1508.056818048
+2021,"Adult","Port Melbourne","A",9596,2088.0742464,4134.387007872
+2021,"Adult","South Yarra","A",3896,847.7633664,1678.571465472
+2020,"Adult","Southbank","A",14761,3211.9699824,6359.700565152
+2020,"Adult","Kensington","A",7816,1700.7490944,3367.483206912
+2021,"Adult","Port Melbourne","M",880,215.07552,425.8495296
+2021,"Adult","West Melbourne (Industrial)","M",0,0,0
+2020,"Adult","West Melbourne (Residential)","M",3320,811.42128,1606.6141344
+2020,"Adult","Parkville","M",2585,631.78434,1250.9329932
+2021,"Adult","Port Melbourne","F",776,148.0552128,293.149321344
+2021,"Adult","West Melbourne (Industrial)","F",0,0,0
+2020,"Adult","West Melbourne (Residential)","F",2998,571.9968144,1132.553692512
+2020,"Adult","Parkville","F",2641,503.8837848,997.689893904
+2021,"Adult","Port Melbourne","A",1656,360.3429504,713.479041792
+2021,"Adult","West Melbourne (Industrial)","A",0,0,0
+2021,"Adult","North Melbourne","M",5617,1372.817268,2718.17819064
+2021,"Adult","Melbourne (CBD)","M",7347,1795.636188,3555.35965224
+2021,"Adult","Melbourne (CBD)","M",7582,1853.071128,3669.08083344
+2021,"Adult","Melbourne (CBD)","M",4273,1044.338292,2067.78981816
+2021,"Adult","North Melbourne","F",5939,1133.1184392,2243.574509616
+2021,"Adult","Melbourne (CBD)","F",7011,1337.6483208,2648.543675184
+2021,"Adult","Melbourne (CBD)","F",7741,1476.9270648,2924.315588304
+2021,"Adult","Melbourne (CBD)","F",4103,782.8228584,1549.989259632
+2021,"Adult","Melbourne (CBD)","A",14358,3124.2778272,6186.070097856
+2021,"Adult","Melbourne (CBD)","A",15323,3334.2602832,6601.835360736
+2021,"Adult","Melbourne (CBD)","A",8376,1822.6041984,3608.756312832
+2011,"Child","Carlton","M",411,44.0684064,87.255444672
+2012,"Child","Melbourne (Remainder)","F",0,0,0
+2012,"Child","East Melbourne","F",139,13.8080376,27.339914448
+2011,"Child","Melbourne (CBD)","F",81,8.0464104,15.931892592
+2011,"Child","Carlton","F",375,37.2519,73.758762
+2012,"Child","Melbourne (Remainder)","A",0,0,0
+2012,"Child","East Melbourne","A",274,28.2988296,56.031682608
+2011,"Child","Melbourne (CBD)","A",180,18.590472,36.80913456
+2011,"Child","Carlton","A",786,81.1783944,160.733220912
+2012,"Child","Southbank","M",122,13.0811328,25.900642944
+2012,"Child","Melbourne (Remainder)","M",0,0,0
+2011,"Child","North Melbourne","M",480,51.466752,101.90416896
+2011,"Child","Docklands","M",146,15.6544704,30.995851392
+2012,"Child","Southbank","F",106,10.5298704,20.849143392
+2012,"Child","Melbourne (Remainder)","F",0,0,0
+2011,"Child","North Melbourne","F",419,41.6227896,82.413123408
+2011,"Child","Docklands","F",146,14.5034064,28.716744672
+2012,"Child","Southbank","A",228,23.5479312,46.624903776
+2012,"Child","Melbourne (Remainder)","A",0,0,0
+2011,"Child","North Melbourne","A",899,92.8490796,183.841177608
+2011,"Child","Docklands","A",292,30.1578768,59.712596064
+2012,"Child","Southbank","M",165,17.691696,35.02955808
+2012,"Child","Kensington","M",592,63.4756608,125.681808384
+2011,"Child","Melbourne (Remainder)","M",0,0,0
+2011,"Child","East Melbourne","M",112,12.0089088,23.777639424
+2012,"Child","Southbank","F",152,15.0994368,29.896884864
+2012,"Child","Kensington","F",559,55.5301656,109.949727888
+2011,"Child","Melbourne (Remainder)","F",0,0,0
+2011,"Child","East Melbourne","F",130,12.913992,25.56970416
+2012,"Child","Southbank","A",317,32.7398868,64.824975864
+2012,"Child","Kensington","A",1151,118.8757404,235.373965992
+2011,"Child","Melbourne (Remainder)","A",0,0,0
+2011,"Child","East Melbourne","A",242,24.9938568,49.487836464
+2012,"Child","West Melbourne (Residential)","M",100,10.72224,21.2300352
+2012,"Child","Parkville","M",147,15.7616928,31.208151744
+2011,"Child","Southbank","M",100,10.72224,21.2300352
+2011,"Child","Melbourne (Remainder)","M",0,0,0
+2012,"Child","West Melbourne (Residential)","F",131,13.0133304,25.766394192
+2012,"Child","Parkville","F",160,15.894144,31.47040512
+2011,"Child","Southbank","F",92,9.1391328,18.095482944
+2011,"Child","Melbourne (Remainder)","F",0,0,0
+2012,"Child","West Melbourne (Residential)","A",231,23.8577724,47.238389352
+2012,"Child","Parkville","A",307,31.7070828,62.780023944
+2011,"Child","Southbank","A",192,19.8298368,39.263076864
+2011,"Child","Melbourne (Remainder)","A",0,0,0
+2012,"Child","Port Melbourne","M",834,89.4234816,177.058493568
+2012,"Child","South Yarra","M",200,21.44448,42.4600704
+2011,"Child","Southbank","M",131,14.0461344,27.811346112
+2011,"Child","Kensington","M",566,60.6878784,120.161999232
+2012,"Child","Port Melbourne","F",729,72.4176936,143.387033328
+2012,"Child","South Yarra","F",187,18.5762808,36.781035984
+2011,"Child","Southbank","F",124,12.3179616,24.389563968
+2011,"Child","Kensington","F",528,52.4506752,103.852336896
+2012,"Child","Port Melbourne","A",1563,161.4272652,319.625985096
+2012,"Child","South Yarra","A",387,39.9695148,79.139639304
+2011,"Child","Southbank","A",255,26.336502,52.14627396
+2011,"Child","Kensington","A",1094,112.9887576,223.717740048
+2012,"Child","Port Melbourne","M",4,0.4288896,0.849201408
+2012,"Child","West Melbourne (Industrial)","M",0,0,0
+2011,"Child","West Melbourne (Residential)","M",90,9.650016,19.10703168
+2011,"Child","Parkville","M",126,13.5100224,26.749844352
+2012,"Child","Port Melbourne","F",3,0.2980152,0.590070096
+2012,"Child","West Melbourne (Industrial)","F",0,0,0
+2011,"Child","West Melbourne (Residential)","F",93,9.2384712,18.292172976
+2011,"Child","Parkville","F",135,13.410684,26.55315432
+2012,"Child","Port Melbourne","A",7,0.7229628,1.431466344
+2012,"Child","West Melbourne (Industrial)","A",0,0,0
+2011,"Child","West Melbourne (Residential)","A",183,18.9003132,37.422620136
+2011,"Child","Parkville","A",261,26.9561844,53.373245112
+2013,"Child","Carlton","M",450,48.25008,95.5351584
+2012,"Child","Melbourne (CBD)","M",145,15.547248,30.78355104
+2011,"Child","Port Melbourne","M",791,84.8129184,167.929578432
+2011,"Child","South Yarra","M",202,21.6589248,42.884671104
+2013,"Child","Carlton","F",392,38.9406528,77.102492544
+2012,"Child","Melbourne (CBD)","F",120,11.920608,23.60280384
+2011,"Child","Port Melbourne","F",670,66.556728,131.78232144
+2011,"Child","South Yarra","F",175,17.38422,34.4207556
+2013,"Child","Carlton","A",842,86.9620968,172.184951664
+2012,"Child","Melbourne (CBD)","A",265,27.369306,54.19122588
+2011,"Child","Port Melbourne","A",1461,150.8926644,298.767475512
+2011,"Child","South Yarra","A",377,38.9367108,77.094687384
+2013,"Child","Docklands","M",221,23.6961504,46.918377792
+2012,"Child","Melbourne (CBD)","M",88,9.4355712,18.682430976
+2011,"Child","Port Melbourne","M",2,0.2144448,0.424600704
+2011,"Child","West Melbourne (Industrial)","M",0,0,0
+2013,"Child","Docklands","F",214,21.2584176,42.091666848
+2012,"Child","Melbourne (CBD)","F",97,9.6358248,19.078933104
+2011,"Child","Port Melbourne","F",3,0.2980152,0.590070096
+2011,"Child","West Melbourne (Industrial)","F",0,0,0
+2013,"Child","Docklands","A",435,44.926974,88.95540852
+2012,"Child","Melbourne (CBD)","A",185,19.106874,37.83161052
+2011,"Child","Port Melbourne","A",5,0.516402,1.02247596
+2011,"Child","West Melbourne (Industrial)","A",0,0,0
+2013,"Child","East Melbourne","M",145,15.547248,30.78355104
+2012,"Child","Melbourne (CBD)","M",114,12.2233536,24.202240128
+2012,"Child","Carlton","M",434,46.5345216,92.138352768
+2011,"Child","Melbourne (CBD)","M",123,13.1883552,26.112943296
+2013,"Child","East Melbourne","F",146,14.5034064,28.716744672
+2012,"Child","Melbourne (CBD)","F",106,10.5298704,20.849143392
+2012,"Child","Carlton","F",377,37.4505768,74.152142064
+2011,"Child","Melbourne (CBD)","F",104,10.3311936,20.455763328
+2013,"Child","East Melbourne","A",291,30.0545964,59.508100872
+2012,"Child","Melbourne (CBD)","A",220,22.721688,44.98894224
+2012,"Child","Carlton","A",811,83.7604044,165.845600712
+2011,"Child","Melbourne (CBD)","A",227,23.4446508,46.420408584
+2013,"Child","Melbourne (Remainder)","M",0,0,0
+2012,"Child","North Melbourne","M",523,56.0773152,111.033084096
+2012,"Child","Docklands","M",176,18.8711424,37.364861952
+2011,"Child","Melbourne (CBD)","M",75,8.04168,15.9225264
+2013,"Child","Melbourne (Remainder)","F",0,0,0
+2012,"Child","North Melbourne","F",452,44.9009568,88.903894464
+2012,"Child","Docklands","F",173,17.1855432,34.027375536
+2011,"Child","Melbourne (CBD)","F",86,8.5431024,16.915342752
+2013,"Child","Melbourne (Remainder)","A",0,0,0
+2012,"Child","North Melbourne","A",975,100.69839,199.3828122
+2012,"Child","Docklands","A",349,36.0448596,71.368822008
+2011,"Child","Melbourne (CBD)","A",161,16.6281444,32.923725912
+2013,"Child","Kensington","M",624,66.9067776,132.475419648
+2012,"Child","Melbourne (Remainder)","M",0,0,0
+2012,"Child","East Melbourne","M",135,14.475024,28.66054752
+2011,"Child","Melbourne (CBD)","M",99,10.6150176,21.017734848
+2013,"Child","Kensington","F",590,58.609656,116.04711888
+2014,"Child","Port Melbourne","A",1695,175.060278,346.61935044
+2014,"Child","South Yarra","A",395,40.795758,80.77560084
+2013,"Child","Southbank","A",394,40.6924776,80.571105648
+2013,"Child","Kensington","A",1214,125.3824056,248.257163088
+2014,"Child","Port Melbourne","M",5,0.536112,1.06150176
+2014,"Child","West Melbourne (Industrial)","M",0,0,0
+2013,"Child","West Melbourne (Residential)","M",105,11.258352,22.29153696
+2013,"Child","Parkville","M",157,16.8339168,33.331155264
+2014,"Child","Port Melbourne","F",1,0.0993384,0.196690032
+2014,"Child","West Melbourne (Industrial)","F",0,0,0
+2013,"Child","West Melbourne (Residential)","F",131,13.0133304,25.766394192
+2013,"Child","Parkville","F",179,17.7815736,35.207515728
+2014,"Child","Port Melbourne","A",6,0.6196824,1.226971152
+2014,"Child","West Melbourne (Industrial)","A",0,0,0
+2013,"Child","West Melbourne (Residential)","A",236,24.3741744,48.260865312
+2013,"Child","Parkville","A",336,34.7022144,68.710384512
+2015,"Child","Carlton","M",458,49.1078592,97.233561216
+2014,"Child","Melbourne (CBD)","M",178,19.0855872,37.789462656
+2013,"Child","Port Melbourne","M",871,93.3907104,184.913606592
+2013,"Child","South Yarra","M",203,21.7661472,43.096971456
+2015,"Child","Carlton","F",416,41.3247744,81.823053312
+2014,"Child","Melbourne (CBD)","F",160,15.894144,31.47040512
+2013,"Child","Port Melbourne","F",781,77.5832904,153.614914992
+2013,"Child","South Yarra","F",195,19.370988,38.35455624
+2015,"Child","Carlton","A",874,90.2670696,178.728797808
+2014,"Child","Melbourne (CBD)","A",338,34.9087752,69.119374896
+2013,"Child","Port Melbourne","A",1652,170.6192208,337.826057184
+2013,"Child","South Yarra","A",398,41.1055992,81.389086416
+2015,"Child","Docklands","M",330,35.383392,70.05911616
+2014,"Child","Melbourne (CBD)","M",116,12.4377984,24.626840832
+2013,"Child","Port Melbourne","M",3,0.3216672,0.636901056
+2013,"Child","West Melbourne (Industrial)","M",0,0,0
+2015,"Child","Docklands","F",321,31.8876264,63.137500272
+2014,"Child","Melbourne (CBD)","F",137,13.6093608,26.946534384
+2013,"Child","Port Melbourne","F",2,0.1986768,0.393380064
+2013,"Child","West Melbourne (Industrial)","F",0,0,0
+2015,"Child","Docklands","A",651,67.2355404,133.126369992
+2014,"Child","Melbourne (CBD)","A",253,26.1299412,51.737283576
+2013,"Child","Port Melbourne","A",5,0.516402,1.02247596
+2013,"Child","West Melbourne (Industrial)","A",0,0,0
+2015,"Child","East Melbourne","M",144,15.4400256,30.571250688
+2014,"Child","Melbourne (CBD)","M",201,21.5517024,42.672370752
+2014,"Child","Carlton","M",455,48.786192,96.59666016
+2013,"Child","Melbourne (CBD)","M",166,17.7989184,35.241858432
+2015,"Child","East Melbourne","F",149,14.8014216,29.306814768
+2014,"Child","Melbourne (CBD)","F",186,18.4769424,36.584345952
+2014,"Child","Carlton","F",419,41.6227896,82.413123408
+2013,"Child","Melbourne (CBD)","F",140,13.907376,27.53660448
+2015,"Child","East Melbourne","A",293,30.2611572,59.917091256
+2014,"Child","Melbourne (CBD)","A",387,39.9695148,79.139639304
+2014,"Child","Carlton","A",874,90.2670696,178.728797808
+2013,"Child","Melbourne (CBD)","A",306,31.6038024,62.575528752
+2015,"Child","Melbourne (Remainder)","M",0,0,0
+2014,"Child","North Melbourne","M",603,64.6551072,128.017112256
+2014,"Child","Docklands","M",270,28.950048,57.32109504
+2013,"Child","Melbourne (CBD)","M",101,10.8294624,21.442335552
+2015,"Child","Melbourne (Remainder)","F",2,0.1986768,0.393380064
+2014,"Child","North Melbourne","F",538,53.4440592,105.819237216
+2014,"Child","Docklands","F",265,26.324676,52.12285848
+2013,"Child","Melbourne (CBD)","F",121,12.0199464,23.799493872
+2015,"Child","Melbourne (Remainder)","A",2,0.2065608,0.408990384
+2014,"Child","North Melbourne","A",1141,117.8429364,233.329014072
+2014,"Child","Docklands","A",535,55.255014,109.40492772
+2013,"Child","Melbourne (CBD)","A",222,22.9282488,45.397932624
+2015,"Child","Kensington","M",642,68.8367808,136.296825984
+2014,"Child","Melbourne (Remainder)","M",0,0,0
+2014,"Child","East Melbourne","M",151,16.1905824,32.057353152
+2013,"Child","Melbourne (CBD)","M",158,16.9411392,33.543455616
+2015,"Child","Kensington","F",634,62.9805456,124.701480288
+2014,"Child","Melbourne (Remainder)","F",0,0,0
+2014,"Child","East Melbourne","F",149,14.8014216,29.306814768
+2013,"Child","Melbourne (CBD)","F",142,14.1060528,27.929984544
+2015,"Child","Kensington","A",1276,131.7857904,260.935864992
+2014,"Child","Melbourne (Remainder)","A",0,0,0
+2014,"Child","East Melbourne","A",300,30.98412,61.3485576
+2013,"Child","Melbourne (CBD)","A",300,30.98412,61.3485576
+2015,"Child","Parkville","M",177,18.9783648,37.577162304
+2014,"Child","Southbank","M",152,16.2978048,32.269653504
+2014,"Child","Melbourne (Remainder)","M",0,0,0
+2013,"Child","North Melbourne","M",573,61.4384352,121.648101696
+2015,"Child","Parkville","F",195,19.370988,38.35455624
+2014,"Child","Southbank","F",141,14.0067144,27.733294512
+2014,"Child","Melbourne (Remainder)","F",0,0,0
+2013,"Child","North Melbourne","F",509,50.5632456,100.115226288
+2015,"Child","Parkville","A",372,38.4203088,76.072211424
+2014,"Child","Southbank","A",293,30.2611572,59.917091256
+2014,"Child","Melbourne (Remainder)","A",0,0,0
+2013,"Child","North Melbourne","A",1082,111.7493928,221.263797744
+2015,"Child","South Yarra","M",193,20.6939232,40.973967936
+2014,"Child","Southbank","M",234,25.0900416,49.678282368
+2014,"Child","Kensington","M",644,69.0512256,136.721426688
+2013,"Child","Melbourne (Remainder)","M",0,0,0
+2015,"Child","South Yarra","F",189,18.7749576,37.174416048
+2014,"Child","Southbank","F",217,21.5564328,42.681736944
+2014,"Child","Kensington","F",608,60.3977472,119.587539456
+2013,"Child","Melbourne (Remainder)","F",0,0,0
+2015,"Child","South Yarra","A",382,39.4531128,78.117163344
+2014,"Child","Southbank","A",451,46.5794604,92.227331592
+2014,"Child","Kensington","A",1252,129.3070608,256.027980384
+2013,"Child","Melbourne (Remainder)","A",0,0,0
+2015,"Child","West Melbourne (Industrial)","M",0,0,0
+2014,"Child","West Melbourne (Residential)","M",101,10.8294624,21.442335552
+2014,"Child","Parkville","M",165,17.691696,35.02955808
+2013,"Child","Southbank","M",137,14.6894688,29.085148224
+2015,"Child","West Melbourne (Industrial)","F",0,0,0
+2014,"Child","West Melbourne (Residential)","F",149,14.8014216,29.306814768
+2014,"Child","Parkville","F",190,18.874296,37.37110608
+2013,"Child","Southbank","F",130,12.913992,25.56970416
+2015,"Child","West Melbourne (Industrial)","A",0,0,0
+2014,"Child","West Melbourne (Residential)","A",250,25.8201,51.123798
+2014,"Child","Parkville","A",355,36.664542,72.59579316
+2013,"Child","Southbank","A",267,27.5758668,54.600216264
+2015,"Child","Melbourne (CBD)","M",180,19.300032,38.21406336
+2014,"Child","Port Melbourne","M",887,95.1062688,188.310412224
+2014,"Child","South Yarra","M",199,21.3372576,42.247770048
+2013,"Child","Southbank","M",210,22.516704,44.58307392
+2015,"Child","Melbourne (CBD)","F",197,19.5696648,38.747936304
+2014,"Child","Port Melbourne","F",808,80.2654272,158.925545856
+2014,"Child","South Yarra","F",196,19.4703264,38.551246272
+2013,"Child","Southbank","F",184,18.2782656,36.190965888
+2015,"Child","Melbourne (CBD)","A",377,38.9367108,77.094687384
+2017,"Child","Melbourne (Remainder)","M",10,1.072224,2.12300352
+2016,"Child","North Melbourne","M",613,65.7273312,130.140115776
+2016,"Child","Docklands","M",401,42.9961824,85.132441152
+2015,"Child","Melbourne (CBD)","M",138,14.7966912,29.297448576
+2017,"Child","Melbourne (Remainder)","F",4,0.3973536,0.786760128
+2016,"Child","North Melbourne","F",586,58.2123024,115.260358752
+2016,"Child","Docklands","F",367,36.4571928,72.185241744
+2015,"Child","Melbourne (CBD)","F",154,15.2981136,30.290264928
+2017,"Child","Melbourne (Remainder)","A",14,1.4459256,2.862932688
+2016,"Child","North Melbourne","A",1199,123.8331996,245.189735208
+2016,"Child","Docklands","A",768,79.3193472,157.052307456
+2015,"Child","Melbourne (CBD)","A",292,30.1578768,59.712596064
+2017,"Child","Kensington","M",651,69.8017824,138.207529152
+2016,"Child","Melbourne (Remainder)","M",0,0,0
+2016,"Child","East Melbourne","M",135,14.475024,28.66054752
+2015,"Child","Melbourne (CBD)","M",237,25.4117088,50.315183424
+2017,"Child","Kensington","F",656,65.1659904,129.028660992
+2016,"Child","Melbourne (Remainder)","F",0,0,0
+2016,"Child","East Melbourne","F",151,15.0000984,29.700194832
+2015,"Child","Melbourne (CBD)","F",200,19.86768,39.3380064
+2017,"Child","Kensington","A",1307,134.9874828,267.275215944
+2016,"Child","Melbourne (Remainder)","A",0,0,0
+2016,"Child","East Melbourne","A",286,29.5381944,58.485624912
+2015,"Child","Melbourne (CBD)","A",437,45.1335348,89.364398904
+2017,"Child","Parkville","M",214,22.9455936,45.432275328
+2016,"Child","Southbank","M",166,17.7989184,35.241858432
+2016,"Child","Melbourne (Remainder)","M",7,0.7505568,1.486102464
+2015,"Child","North Melbourne","M",596,63.9045504,126.531009792
+2017,"Child","Parkville","F",228,22.6491552,44.845327296
+2016,"Child","Southbank","F",186,18.4769424,36.584345952
+2016,"Child","Melbourne (Remainder)","F",5,0.496692,0.98345016
+2015,"Child","North Melbourne","F",555,55.132812,109.16296776
+2017,"Child","Parkville","A",442,45.6499368,90.386874864
+2016,"Child","Southbank","A",352,36.3547008,71.982307584
+2016,"Child","Melbourne (Remainder)","A",12,1.2393648,2.453942304
+2015,"Child","North Melbourne","A",1151,118.8757404,235.373965992
+2017,"Child","South Yarra","M",202,21.6589248,42.884671104
+2016,"Child","Southbank","M",272,29.1644928,57.745695744
+2016,"Child","Kensington","M",652,69.9090048,138.419829504
+2015,"Child","Melbourne (Remainder)","M",0,0,0
+2017,"Child","South Yarra","F",204,20.2650336,40.124766528
+2016,"Child","Southbank","F",267,26.5233528,52.516238544
+2016,"Child","Kensington","F",655,65.066652,128.83197096
+2015,"Child","Melbourne (Remainder)","F",0,0,0
+2017,"Child","South Yarra","A",406,41.9318424,83.025047952
+2016,"Child","Southbank","A",539,55.6681356,110.222908488
+2016,"Child","Kensington","A",1307,134.9874828,267.275215944
+2015,"Child","Melbourne (Remainder)","A",0,0,0
+2017,"Child","West Melbourne (Industrial)","M",0,0,0
+2016,"Child","West Melbourne (Residential)","M",159,17.0483616,33.755755968
+2016,"Child","Parkville","M",203,21.7661472,43.096971456
+2015,"Child","Southbank","M",160,17.155584,33.96805632
+2017,"Child","West Melbourne (Industrial)","F",0,0,0
+2016,"Child","West Melbourne (Residential)","F",168,16.6888512,33.043925376
+2016,"Child","Parkville","F",196,19.4703264,38.551246272
+2015,"Child","Southbank","F",156,15.4967904,30.683644992
+2017,"Child","West Melbourne (Industrial)","A",0,0,0
+2016,"Child","West Melbourne (Residential)","A",327,33.7726908,66.869927784
+2016,"Child","Parkville","A",399,41.2088796,81.593581608
+2015,"Child","Southbank","A",316,32.6366064,64.620480672
+2017,"Child","Melbourne (CBD)","M",212,22.7311488,45.007674624
+2016,"Child","Port Melbourne","M",901,96.6073824,191.282617152
+2016,"Child","South Yarra","M",181,19.4072544,38.426363712
+2015,"Child","Southbank","M",262,28.0922688,55.622692224
+2017,"Child","Melbourne (CBD)","F",212,21.0597408,41.698286784
+2016,"Child","Port Melbourne","F",871,86.5237464,171.317017872
+2016,"Child","South Yarra","F",183,18.1789272,35.994275856
+2015,"Child","Southbank","F",243,24.1392312,47.795677776
+2017,"Child","Melbourne (CBD)","A",424,43.7908896,86.705961408
+2016,"Child","Port Melbourne","A",1772,183.0128688,362.365480224
+2016,"Child","South Yarra","A",364,37.5940656,74.436249888
+2015,"Child","Southbank","A",505,52.156602,103.27007196
+2017,"Child","Melbourne (CBD)","M",188,20.1578112,39.912466176
+2016,"Child","Port Melbourne","M",1,0.1072224,0.212300352
+2016,"Child","West Melbourne (Industrial)","M",0,0,0
+2015,"Child","West Melbourne (Residential)","M",130,13.938912,27.59904576
+2017,"Child","Melbourne (CBD)","F",202,20.0663568,39.731386464
+2016,"Child","Port Melbourne","F",4,0.3973536,0.786760128
+2016,"Child","West Melbourne (Industrial)","F",0,0,0
+2015,"Child","West Melbourne (Residential)","F",157,15.5961288,30.880335024
+2017,"Child","Melbourne (CBD)","A",390,40.279356,79.75312488
+2016,"Child","Port Melbourne","A",5,0.516402,1.02247596
+2016,"Child","West Melbourne (Industrial)","A",0,0,0
+2015,"Child","West Melbourne (Residential)","A",287,29.6414748,58.690120104
+2017,"Child","Melbourne (CBD)","M",282,30.2367168,59.868699264
+2017,"Child","Carlton","M",470,50.394528,99.78116544
+2016,"Child","Melbourne (CBD)","M",194,20.8011456,41.186268288
+2015,"Child","Port Melbourne","M",903,96.8218272,191.707217856
+2017,"Child","Melbourne (CBD)","F",245,24.337908,48.18905784
+2017,"Child","Carlton","F",420,41.722128,82.60981344
+2016,"Child","Melbourne (CBD)","F",204,20.2650336,40.124766528
+2015,"Child","Port Melbourne","F",848,84.2389632,166.793147136
+2017,"Child","Melbourne (CBD)","A",527,54.4287708,107.768966184
+2017,"Child","Carlton","A",890,91.919556,182.00072088
+2016,"Child","Melbourne (CBD)","A",398,41.1055992,81.389086416
+2015,"Child","Port Melbourne","A",1751,180.8439804,358.071081192
+2017,"Child","North Melbourne","M",690,73.983456,146.48724288
+2017,"Child","Docklands","M",480,51.466752,101.90416896
+2016,"Child","Melbourne (CBD)","M",167,17.9061408,35.454158784
+2015,"Child","Port Melbourne","M",1,0.1072224,0.212300352
+2017,"Child","North Melbourne","F",671,66.6560664,131.979011472
+2017,"Child","Docklands","F",440,43.708896,86.54361408
+2016,"Child","Melbourne (CBD)","F",179,17.7815736,35.207515728
+2015,"Child","Port Melbourne","F",0,0,0
+2017,"Child","North Melbourne","A",1361,140.5646244,278.317956312
+2017,"Child","Docklands","A",920,95.017968,188.13557664
+2016,"Child","Melbourne (CBD)","A",346,35.7350184,70.755336432
+2015,"Child","Port Melbourne","A",1,0.1032804,0.204495192
+2017,"Child","Melbourne (Remainder)","M",0,0,0
+2017,"Child","East Melbourne","M",145,15.547248,30.78355104
+2016,"Child","Melbourne (CBD)","M",225,24.12504,47.7675792
+2016,"Child","Carlton","M",452,48.4645248,95.959759104
+2017,"Child","Melbourne (Remainder)","F",0,0,0
+2017,"Child","East Melbourne","F",174,17.2848816,34.224065568
+2016,"Child","Melbourne (CBD)","F",195,19.370988,38.35455624
+2016,"Child","Carlton","F",423,42.0201432,83.199883536
+2017,"Child","Melbourne (Remainder)","A",0,0,0
+2017,"Child","East Melbourne","A",319,32.9464476,65.233966248
+2016,"Child","Melbourne (CBD)","A",420,43.377768,85.88798064
+2016,"Child","Carlton","A",875,90.37035,178.933293
+2017,"Child","Southbank","M",193,20.6939232,40.973967936
+2019,"Child","West Melbourne (Industrial)","F",0,0,0
+2018,"Child","West Melbourne (Residential)","F",192,19.0729728,37.764486144
+2018,"Child","Parkville","F",239,23.7418776,47.008917648
+2017,"Child","Southbank","F",211,20.9604024,41.501596752
+2019,"Child","West Melbourne (Industrial)","A",0,0,0
+2018,"Child","West Melbourne (Residential)","A",371,38.3170284,75.867716232
+2018,"Child","Parkville","A",462,47.7155448,94.476778704
+2017,"Child","Southbank","A",404,41.7252816,82.616057568
+2019,"Child","Melbourne (CBD)","M",227,24.3394848,48.192179904
+2018,"Child","Port Melbourne","M",931,99.8240544,197.651627712
+2018,"Child","South Yarra","M",207,22.1950368,43.946172864
+2017,"Child","Southbank","M",338,36.2411712,71.757518976
+2019,"Child","Melbourne (CBD)","F",218,21.6557712,42.878426976
+2018,"Child","Port Melbourne","F",957,95.0668488,188.232360624
+2018,"Child","South Yarra","F",214,21.2584176,42.091666848
+2017,"Child","Southbank","F",315,31.291596,61.95736008
+2019,"Child","Melbourne (CBD)","A",445,45.959778,91.00036044
+2018,"Child","Port Melbourne","A",1888,194.9933952,386.086922496
+2018,"Child","South Yarra","A",421,43.4810484,86.092475832
+2017,"Child","Southbank","A",653,67.4421012,133.535360376
+2019,"Child","Melbourne (CBD)","M",207,22.1950368,43.946172864
+2018,"Child","Port Melbourne","M",25,2.68056,5.3075088
+2018,"Child","West Melbourne (Industrial)","M",0,0,0
+2017,"Child","West Melbourne (Residential)","M",170,18.227808,36.09105984
+2019,"Child","Melbourne (CBD)","F",222,22.0531248,43.665187104
+2018,"Child","Port Melbourne","F",22,2.1854448,4.327180704
+2018,"Child","West Melbourne (Industrial)","F",0,0,0
+2017,"Child","West Melbourne (Residential)","F",185,18.377604,36.38765592
+2019,"Child","Melbourne (CBD)","A",429,44.3072916,87.728437368
+2018,"Child","Port Melbourne","A",47,4.8541788,9.611274024
+2018,"Child","West Melbourne (Industrial)","A",0,0,0
+2017,"Child","West Melbourne (Residential)","A",355,36.664542,72.59579316
+2019,"Child","Melbourne (CBD)","M",313,33.5606112,66.450010176
+2019,"Child","Carlton","M",450,48.25008,95.5351584
+2018,"Child","Melbourne (CBD)","M",223,23.9105952,47.342978496
+2017,"Child","Port Melbourne","M",927,99.3951648,196.802426304
+2019,"Child","Melbourne (CBD)","F",267,26.5233528,52.516238544
+2019,"Child","Carlton","F",412,40.9274208,81.036293184
+2018,"Child","Melbourne (CBD)","F",215,21.357756,42.28835688
+2017,"Child","Port Melbourne","F",927,92.0866968,182.331659664
+2019,"Child","Melbourne (CBD)","A",580,59.902632,118.60721136
+2019,"Child","Carlton","A",862,89.0277048,176.274855504
+2018,"Child","Melbourne (CBD)","A",438,45.2368152,89.568894096
+2017,"Child","Port Melbourne","A",1854,191.4818616,379.134085968
+2019,"Child","North Melbourne","M",820,87.922368,174.08628864
+2019,"Child","Docklands","M",573,61.4384352,121.648101696
+2018,"Child","Melbourne (CBD)","M",197,21.1228128,41.823169344
+2017,"Child","Port Melbourne","M",12,1.2866688,2.547604224
+2019,"Child","North Melbourne","F",865,85.927716,170.13687768
+2019,"Child","Docklands","F",529,52.5500136,104.049026928
+2018,"Child","Melbourne (CBD)","F",216,21.4570944,42.485046912
+2017,"Child","Port Melbourne","F",10,0.993384,1.96690032
+2019,"Child","North Melbourne","A",1685,174.027474,344.57439852
+2019,"Child","Docklands","A",1102,113.8150008,225.353701584
+2018,"Child","Melbourne (CBD)","A",413,42.6548052,84.456514296
+2017,"Child","Port Melbourne","A",22,2.2721688,4.498894224
+2019,"Child","Melbourne (Remainder)","M",0,0,0
+2019,"Child","East Melbourne","M",144,15.4400256,30.571250688
+2018,"Child","Melbourne (CBD)","M",307,32.9172768,65.176208064
+2018,"Child","Carlton","M",466,49.9656384,98.931964032
+2019,"Child","Melbourne (Remainder)","F",0,0,0
+2019,"Child","East Melbourne","F",177,17.5828968,34.814135664
+2018,"Child","Melbourne (CBD)","F",270,26.821368,53.10630864
+2018,"Child","Carlton","F",418,41.5234512,82.216433376
+2019,"Child","Melbourne (Remainder)","A",0,0,0
+2019,"Child","East Melbourne","A",321,33.1530084,65.642956632
+2018,"Child","Melbourne (CBD)","A",577,59.5927908,117.993725784
+2018,"Child","Carlton","A",884,91.2998736,180.773749728
+2019,"Child","Southbank","M",222,23.8033728,47.130678144
+2019,"Child","Melbourne (Remainder)","M",8,0.8577792,1.698402816
+2018,"Child","North Melbourne","M",765,82.025136,162.40976928
+2018,"Child","Docklands","M",537,57.5784288,114.005289024
+2019,"Child","Southbank","F",238,23.6425392,46.812227616
+2019,"Child","Melbourne (Remainder)","F",2,0.1986768,0.393380064
+2018,"Child","North Melbourne","F",784,77.8813056,154.204985088
+2018,"Child","Docklands","F",498,49.4705232,97.951635936
+2019,"Child","Southbank","A",460,47.508984,94.06778832
+2019,"Child","Melbourne (Remainder)","A",10,1.032804,2.04495192
+2018,"Child","North Melbourne","A",1549,159.9813396,316.763052408
+2018,"Child","Docklands","A",1035,106.895214,211.65252372
+2019,"Child","Southbank","M",415,44.497296,88.10464608
+2019,"Child","Kensington","M",639,68.5151136,135.659924928
+2018,"Child","Melbourne (Remainder)","M",0,0,0
+2018,"Child","East Melbourne","M",145,15.547248,30.78355104
+2019,"Child","Southbank","F",370,36.755208,72.77531184
+2019,"Child","Kensington","F",661,65.6626824,130.012111152
+2018,"Child","Melbourne (Remainder)","F",0,0,0
+2018,"Child","East Melbourne","F",176,17.4835584,34.617445632
+2019,"Child","Southbank","A",785,81.075114,160.52872572
+2019,"Child","Kensington","A",1300,134.26452,265.8437496
+2018,"Child","Melbourne (Remainder)","A",0,0,0
+2018,"Child","East Melbourne","A",321,33.1530084,65.642956632
+2019,"Child","West Melbourne (Residential)","M",187,20.0505888,39.700165824
+2019,"Child","Parkville","M",226,24.2322624,47.979879552
+2018,"Child","Southbank","M",207,22.1950368,43.946172864
+2018,"Child","Melbourne (Remainder)","M",9,0.9650016,1.910703168
+2019,"Child","West Melbourne (Residential)","F",199,19.7683416,39.141316368
+2019,"Child","Parkville","F",233,23.1458472,45.828777456
+2018,"Child","Southbank","F",223,22.1524632,43.861877136
+2018,"Child","Melbourne (Remainder)","F",3,0.2980152,0.590070096
+2019,"Child","West Melbourne (Residential)","A",386,39.8662344,78.935144112
+2019,"Child","Parkville","A",459,47.4057036,93.863293128
+2018,"Child","Southbank","A",430,44.410572,87.93293256
+2018,"Child","Melbourne (Remainder)","A",12,1.2393648,2.453942304
+2019,"Child","Port Melbourne","M",910,97.572384,193.19332032
+2019,"Child","South Yarra","M",214,22.9455936,45.432275328
+2018,"Child","Southbank","M",390,41.816736,82.79713728
+2018,"Child","Kensington","M",642,68.8367808,136.296825984
+2019,"Child","Port Melbourne","F",966,95.9608944,190.002570912
+2019,"Child","South Yarra","F",208,20.6623872,40.911526656
+2018,"Child","Southbank","F",358,35.5631472,70.415031456
+2018,"Child","Kensington","F",658,65.3646672,129.422041056
+2019,"Child","Port Melbourne","A",1876,193.7540304,383.632980192
+2019,"Child","South Yarra","A",422,43.5843288,86.296971024
+2018,"Child","Southbank","A",748,77.2537392,152.962403616
+2018,"Child","Kensington","A",1300,134.26452,265.8437496
+2019,"Child","Port Melbourne","M",45,4.825008,9.55351584
+2019,"Child","West Melbourne (Industrial)","M",0,0,0
+2018,"Child","West Melbourne (Residential)","M",179,19.1928096,38.001763008
+2018,"Child","Parkville","M",223,23.9105952,47.342978496
+2019,"Child","Port Melbourne","F",36,3.5761824,7.080841152
+2021,"Child","North Melbourne","A",1179,121.7675916,241.099831368
+2021,"Child","Docklands","A",1088,112.3690752,222.490768896
+2020,"Child","Melbourne (CBD)","A",410,42.344964,83.84302872
+2019,"Child","Port Melbourne","A",81,8.3657124,16.564110552
+2021,"Child","Melbourne (Remainder)","M",0,0,0
+2021,"Child","East Melbourne","M",104,11.1511296,22.079236608
+2020,"Child","Melbourne (CBD)","M",294,31.5233856,62.416303488
+2020,"Child","Carlton","M",427,45.7839648,90.652250304
+2021,"Child","Melbourne (Remainder)","F",0,0,0
+2021,"Child","East Melbourne","F",111,11.0265624,21.832593552
+2020,"Child","Melbourne (CBD)","F",259,25.7286456,50.942718288
+2020,"Child","Carlton","F",390,38.741976,76.70911248
+2021,"Child","Melbourne (Remainder)","A",0,0,0
+2021,"Child","East Melbourne","A",215,22.205286,43.96646628
+2020,"Child","Melbourne (CBD)","A",553,57.1140612,113.085841176
+2020,"Child","Carlton","A",817,84.3800868,167.072571864
+2021,"Child","Southbank","M",197,21.1228128,41.823169344
+2021,"Child","Melbourne (Remainder)","M",0,0,0
+2020,"Child","North Melbourne","M",811,86.9573664,172.175585472
+2020,"Child","Docklands","M",578,61.9745472,122.709603456
+2021,"Child","Southbank","F",200,19.86768,39.3380064
+2021,"Child","Melbourne (Remainder)","F",1,0.0993384,0.196690032
+2020,"Child","North Melbourne","F",896,89.0072064,176.234268672
+2020,"Child","Docklands","F",539,53.5433976,106.015927248
+2021,"Child","Southbank","A",397,41.0023188,81.184591224
+2021,"Child","Melbourne (Remainder)","A",1,0.1032804,0.204495192
+2020,"Child","North Melbourne","A",1707,176.2996428,349.073292744
+2020,"Child","Docklands","A",1117,115.3642068,228.421129464
+2021,"Child","Southbank","M",380,40.744512,80.67413376
+2021,"Child","Kensington","M",580,62.188992,123.13420416
+2020,"Child","Melbourne (Remainder)","M",0,0,0
+2020,"Child","East Melbourne","M",132,14.1533568,28.023646464
+2021,"Child","Southbank","F",344,34.1724096,67.661371008
+2021,"Child","Kensington","F",584,58.0136256,114.866978688
+2020,"Child","Melbourne (Remainder)","F",0,0,0
+2020,"Child","East Melbourne","F",161,15.9934824,31.667095152
+2021,"Child","Southbank","A",724,74.7750096,148.054519008
+2021,"Child","Kensington","A",1164,120.2183856,238.032403488
+2020,"Child","Melbourne (Remainder)","A",0,0,0
+2020,"Child","East Melbourne","A",293,30.2611572,59.917091256
+2021,"Child","West Melbourne (Residential)","M",213,22.8383712,45.219974976
+2021,"Child","Parkville","M",191,20.4794784,40.549367232
+2020,"Child","Southbank","M",217,23.2672608,46.069176384
+2020,"Child","Melbourne (Remainder)","M",5,0.536112,1.06150176
+2021,"Child","West Melbourne (Residential)","F",202,20.0663568,39.731386464
+2021,"Child","Parkville","F",170,16.887528,33.43730544
+2020,"Child","Southbank","F",229,22.7484936,45.042017328
+2020,"Child","Melbourne (Remainder)","F",1,0.0993384,0.196690032
+2021,"Child","West Melbourne (Residential)","A",415,42.861366,84.86550468
+2021,"Child","Parkville","A",361,37.2842244,73.822764312
+2020,"Child","Southbank","A",446,46.0630584,91.204855632
+2020,"Child","Melbourne (Remainder)","A",6,0.6196824,1.226971152
+2021,"Child","Port Melbourne","M",781,83.7406944,165.806574912
+2021,"Child","South Yarra","M",209,22.4094816,44.370773568
+2020,"Child","Southbank","M",422,45.2478528,89.590748544
+2020,"Child","Kensington","M",617,66.1562208,130.989317184
+2021,"Child","Port Melbourne","F",836,83.0469024,164.432866752
+2021,"Child","South Yarra","F",192,19.0729728,37.764486144
+2020,"Child","Southbank","F",373,37.0532232,73.365381936
+2020,"Child","Kensington","F",645,64.073268,126.86507064
+2021,"Child","Port Melbourne","A",1617,167.0044068,330.668725464
+2021,"Child","South Yarra","A",401,41.4154404,82.002571992
+2020,"Child","Southbank","A",795,82.107918,162.57367764
+2020,"Child","Kensington","A",1262,130.3398648,258.072932304
+2021,"Child","Port Melbourne","M",66,7.0766784,14.011823232
+2021,"Child","West Melbourne (Industrial)","M",0,0,0
+2020,"Child","West Melbourne (Residential)","M",197,21.1228128,41.823169344
+2020,"Child","Parkville","M",210,22.516704,44.58307392
+2021,"Child","Port Melbourne","F",61,6.0596424,11.998091952
+2021,"Child","West Melbourne (Industrial)","F",0,0,0
+2020,"Child","West Melbourne (Residential)","F",210,20.861064,41.30490672
+2020,"Child","Parkville","F",215,21.357756,42.28835688
+2021,"Child","Port Melbourne","A",127,13.1166108,25.970889384
+2021,"Child","West Melbourne (Industrial)","A",0,0,0
+2020,"Child","West Melbourne (Residential)","A",407,42.0351228,83.229543144
+2020,"Child","Parkville","A",425,43.89417,86.9104566
+2021,"Child","Melbourne (CBD)","M",172,18.4422528,36.515660544
+2021,"Child","Melbourne (CBD)","M",187,20.0505888,39.700165824
+2020,"Child","Port Melbourne","M",864,92.6401536,183.427504128
+2020,"Child","South Yarra","M",213,22.8383712,45.219974976
+2021,"Child","Melbourne (CBD)","F",185,18.377604,36.38765592
+2021,"Child","Melbourne (CBD)","F",174,17.2848816,34.224065568
+2020,"Child","Port Melbourne","F",943,93.6761112,185.478700176
+2020,"Child","South Yarra","F",200,19.86768,39.3380064
+2021,"Child","Melbourne (CBD)","A",357,36.8711028,73.004783544
+2021,"Child","Melbourne (CBD)","A",361,37.2842244,73.822764312
+2020,"Child","Port Melbourne","A",1807,186.6276828,369.522811944
+2020,"Child","South Yarra","A",413,42.6548052,84.456514296
+2021,"Child","Melbourne (CBD)","M",227,24.3394848,48.192179904
+2021,"Child","Carlton","M",331,35.4906144,70.271416512
+2020,"Child","Port Melbourne","M",64,6.8622336,13.587222528
+2020,"Child","West Melbourne (Industrial)","M",0,0,0
+2021,"Child","Melbourne (CBD)","F",214,21.2584176,42.091666848
+2021,"Child","Carlton","F",304,30.1988736,59.793769728
+2020,"Child","Port Melbourne","F",52,5.1655968,10.227881664
+2020,"Child","West Melbourne (Industrial)","F",0,0,0
+2021,"Child","Melbourne (CBD)","A",441,45.5466564,90.182379672
+2021,"Child","Carlton","A",635,65.583054,129.85444692
+2020,"Child","Port Melbourne","A",116,11.9805264,23.721442272
+2020,"Child","West Melbourne (Industrial)","A",0,0,0
+2021,"Child","North Melbourne","M",600,64.33344,127.3802112
+2021,"Child","Docklands","M",574,61.5456576,121.860402048
+2020,"Child","Melbourne (CBD)","M",194,20.8011456,41.186268288
+2020,"Child","Melbourne (CBD)","M",220,23.588928,46.70607744
+2021,"Child","North Melbourne","F",579,57.5169336,113.883528528
+2021,"Child","Docklands","F",514,51.0599376,101.098676448
+2020,"Child","Melbourne (CBD)","F",216,21.4570944,42.485046912
+2020,"Child","Melbourne (CBD)","F",216,21.4570944,42.485046912
+2020,"Child","Melbourne (CBD)","A",436,45.0302544,89.159903712
+2012,"Old","Melbourne (CBD)","M",151,30.158928,59.71467744
+2012,"Old","Melbourne (CBD)","F",118,19.5985728,38.805174144
+2012,"Old","Melbourne (CBD)","F",292,48.4981632,96.026363136
+2011,"Old","Port Melbourne","F",1514,251.4596544,497.890115712
+2011,"Old","South Yarra","F",732,121.5775872,240.723622656
+2012,"Old","Melbourne (CBD)","A",269,49.2024672,97.420885056
+2012,"Old","Melbourne (CBD)","A",658,120.3539904,238.300900992
+2011,"Old","Port Melbourne","A",2826,516.9002688,1023.462532224
+2011,"Old","South Yarra","A",1369,250.4021472,495.796251456
+2012,"Old","Melbourne (CBD)","M",155,30.95784,61.2965232
+2012,"Old","Carlton","M",599,119.637072,236.88140256
+2011,"Old","Port Melbourne","M",8,1.597824,3.16369152
+2011,"Old","West Melbourne (Industrial)","M",0,0,0
+2012,"Old","Melbourne (CBD)","F",148,24.5812608,48.670896384
+2012,"Old","Carlton","F",606,100.6502976,199.287589248
+2011,"Old","Port Melbourne","F",5,0.830448,1.64428704
+2011,"Old","West Melbourne (Industrial)","F",0,0,0
+2012,"Old","Melbourne (CBD)","A",303,55.4213664,109.734305472
+2012,"Old","Carlton","A",1205,220.405104,436.40210592
+2011,"Old","Port Melbourne","A",13,2.3778144,4.708072512
+2011,"Old","West Melbourne (Industrial)","A",0,0,0
+2012,"Old","North Melbourne","M",669,133.618032,264.56370336
+2012,"Old","Docklands","M",350,69.9048,138.411504
+2011,"Old","Melbourne (CBD)","M",133,26.563824,52.59637152
+2011,"Old","Melbourne (CBD)","M",335,66.90888,132.4795824
+2012,"Old","North Melbourne","F",704,116.9270784,231.515615232
+2012,"Old","Docklands","F",265,44.013744,87.14721312
+2011,"Old","Melbourne (CBD)","F",91,15.1141536,29.926024128
+2011,"Old","Melbourne (CBD)","F",283,47.0033568,93.066646464
+2012,"Old","North Melbourne","A",1373,251.1337824,497.244889152
+2012,"Old","Docklands","A",615,112.488912,222.72804576
+2011,"Old","Melbourne (CBD)","A",224,40.9715712,81.123710976
+2011,"Old","Melbourne (CBD)","A",618,113.0376384,223.814524032
+2012,"Old","Melbourne (Remainder)","M",0,0,0
+2012,"Old","East Melbourne","M",503,100.463184,198.91710432
+2011,"Old","Melbourne (CBD)","M",150,29.9592,59.319216
+2011,"Old","Carlton","M",576,115.043328,227.78578944
+2012,"Old","Melbourne (Remainder)","F",0,0,0
+2012,"Old","East Melbourne","F",601,99.8198496,197.643302208
+2011,"Old","Melbourne (CBD)","F",125,20.7612,41.107176
+2011,"Old","Carlton","F",584,96.9963264,192.052726272
+2012,"Old","Melbourne (Remainder)","A",0,0,0
+2012,"Old","East Melbourne","A",1104,201.9313152,399.824004096
+2011,"Old","Melbourne (CBD)","A",275,50.29992,99.5938416
+2011,"Old","Carlton","A",1160,212.174208,420.10493184
+2012,"Old","Southbank","M",249,49.732272,98.46989856
+2012,"Old","Melbourne (Remainder)","M",6,1.198368,2.37276864
+2011,"Old","North Melbourne","M",655,130.82184,259.0272432
+2011,"Old","Docklands","M",341,68.107248,134.85235104
+2012,"Old","Southbank","F",217,36.0414432,71.362057536
+2012,"Old","Melbourne (Remainder)","F",0,0,0
+2011,"Old","North Melbourne","F",672,111.6122112,220.992178176
+2011,"Old","Docklands","F",248,41.1902208,81.556637184
+2012,"Old","Southbank","A",466,85.2355008,168.766291584
+2012,"Old","Melbourne (Remainder)","A",6,1.0974528,2.172956544
+2011,"Old","North Melbourne","A",1327,242.7199776,480.585555648
+2011,"Old","Docklands","A",589,107.7332832,213.311900736
+2012,"Old","Southbank","M",342,68.306976,135.24781248
+2012,"Old","Kensington","M",488,97.467264,192.98518272
+2011,"Old","Melbourne (Remainder)","M",0,0,0
+2011,"Old","East Melbourne","M",493,98.465904,194.96248992
+2012,"Old","Southbank","F",298,49.4947008,97.999507584
+2012,"Old","Kensington","F",602,99.9859392,197.972159616
+2011,"Old","Melbourne (Remainder)","F",0,0,0
+2011,"Old","East Melbourne","F",574,95.3354304,188.764152192
+2012,"Old","Southbank","A",640,117.061632,231.78203136
+2012,"Old","Kensington","A",1090,199.370592,394.75377216
+2011,"Old","Melbourne (Remainder)","A",0,0,0
+2011,"Old","East Melbourne","A",1067,195.1636896,386.424105408
+2012,"Old","West Melbourne (Residential)","M",144,28.760832,56.94644736
+2012,"Old","Parkville","M",425,84.8844,168.071112
+2011,"Old","Southbank","M",210,41.94288,83.0469024
+2011,"Old","Melbourne (Remainder)","M",3,0.599184,1.18638432
+2012,"Old","West Melbourne (Residential)","F",148,24.5812608,48.670896384
+2012,"Old","Parkville","F",532,88.3596672,174.952141056
+2011,"Old","Southbank","F",191,31.7231136,62.811764928
+2011,"Old","Melbourne (Remainder)","F",0,0,0
+2012,"Old","West Melbourne (Residential)","A",292,53.4093696,105.750551808
+2012,"Old","Parkville","A",957,175.0437216,346.586568768
+2011,"Old","Southbank","A",401,73.3464288,145.225929024
+2011,"Old","Melbourne (Remainder)","A",3,0.5487264,1.086478272
+2012,"Old","Port Melbourne","M",1378,275.225184,544.94586432
+2012,"Old","South Yarra","M",647,129.224016,255.86355168
+2011,"Old","Southbank","M",324,64.711872,128.12950656
+2011,"Old","Kensington","M",464,92.673792,183.49410816
+2012,"Old","Port Melbourne","F",1575,261.59112,517.9504176
+2012,"Old","South Yarra","F",746,123.9028416,245.327626368
+2011,"Old","Southbank","F",259,43.0172064,85.174068672
+2011,"Old","Kensington","F",572,95.0032512,188.106437376
+2012,"Old","Port Melbourne","A",2953,540.1296864,1069.456779072
+2012,"Old","South Yarra","A",1393,254.7919584,504.488077632
+2011,"Old","Southbank","A",583,106.6358304,211.138944192
+2011,"Old","Kensington","A",1036,189.4935168,375.197163264
+2012,"Old","Port Melbourne","M",11,2.197008,4.35007584
+2012,"Old","West Melbourne (Industrial)","M",0,0,0
+2011,"Old","West Melbourne (Residential)","M",134,26.763552,52.99183296
+2011,"Old","Parkville","M",409,81.688752,161.74372896
+2012,"Old","Port Melbourne","F",4,0.6643584,1.315429632
+2012,"Old","West Melbourne (Industrial)","F",0,0,0
+2011,"Old","West Melbourne (Residential)","F",149,24.7473504,48.999753792
+2011,"Old","Parkville","F",471,78.2282016,154.891839168
+2012,"Old","Port Melbourne","A",15,2.743632,5.43239136
+2012,"Old","West Melbourne (Industrial)","A",0,0,0
+2011,"Old","West Melbourne (Residential)","A",283,51.7631904,102.491116992
+2011,"Old","Parkville","A",880,160.959744,318.70029312
+2013,"Old","Carlton","M",641,128.025648,253.49078304
+2012,"Old","Melbourne (CBD)","M",366,73.100448,144.73888704
+2011,"Old","Port Melbourne","M",1312,262.043136,518.84540928
+2011,"Old","South Yarra","M",637,127.226736,251.90893728
+2013,"Old","Carlton","F",673,111.7783008,221.321035584
+2014,"Old","Melbourne (Remainder)","A",0,0,0
+2014,"Old","East Melbourne","A",1191,217.8443808,431.331873984
+2013,"Old","Melbourne (CBD)","A",371,67.8591648,134.361146304
+2013,"Old","Carlton","A",1314,240.3421632,475.877483136
+2014,"Old","Southbank","M",327,65.311056,129.31589088
+2014,"Old","Melbourne (Remainder)","M",2,0.399456,0.79092288
+2013,"Old","North Melbourne","M",708,141.407424,279.98669952
+2013,"Old","Docklands","M",400,79.8912,158.184576
+2014,"Old","Southbank","F",300,49.82688,98.6572224
+2014,"Old","Melbourne (Remainder)","F",0,0,0
+2013,"Old","North Melbourne","F",740,122.906304,243.35448192
+2013,"Old","Docklands","F",312,51.8199552,102.603511296
+2014,"Old","Southbank","A",627,114.6838176,227.073958848
+2014,"Old","Melbourne (Remainder)","A",2,0.3658176,0.724318848
+2013,"Old","North Melbourne","A",1448,264.8519424,524.406845952
+2013,"Old","Docklands","A",712,130.2310656,257.857509888
+2014,"Old","Southbank","M",399,79.691472,157.78911456
+2014,"Old","Kensington","M",567,113.245776,224.22663648
+2013,"Old","Melbourne (Remainder)","M",0,0,0
+2013,"Old","East Melbourne","M",530,105.85584,209.5945632
+2014,"Old","Southbank","F",384,63.7784064,126.281244672
+2014,"Old","Kensington","F",665,110.449584,218.69017632
+2013,"Old","Melbourne (Remainder)","F",0,0,0
+2013,"Old","East Melbourne","F",620,102.975552,203.89159296
+2014,"Old","Southbank","A",783,143.2175904,283.570828992
+2014,"Old","Kensington","A",1232,225.3436416,446.180410368
+2013,"Old","Melbourne (Remainder)","A",0,0,0
+2013,"Old","East Melbourne","A",1150,210.34512,416.4833376
+2014,"Old","West Melbourne (Residential)","M",164,32.755392,64.85567616
+2014,"Old","Parkville","M",464,92.673792,183.49410816
+2013,"Old","Southbank","M",283,56.523024,111.91558752
+2013,"Old","Melbourne (Remainder)","M",5,0.99864,1.9773072
+2014,"Old","West Melbourne (Residential)","F",157,26.0760672,51.630613056
+2014,"Old","Parkville","F",640,106.297344,210.46874112
+2013,"Old","Southbank","F",279,46.3389984,91.751216832
+2013,"Old","Melbourne (Remainder)","F",0,0,0
+2014,"Old","West Melbourne (Residential)","A",321,58.7137248,116.253175104
+2014,"Old","Parkville","A",1104,201.9313152,399.824004096
+2013,"Old","Southbank","A",562,102.7947456,203.533596288
+2013,"Old","Melbourne (Remainder)","A",5,0.914544,1.81079712
+2014,"Old","Port Melbourne","M",1477,294.998256,584.09654688
+2014,"Old","South Yarra","M",686,137.013408,271.28654784
+2013,"Old","Southbank","M",387,77.294736,153.04357728
+2013,"Old","Kensington","M",524,104.657472,207.22179456
+2014,"Old","Port Melbourne","F",1694,281.3557824,557.084449152
+2014,"Old","South Yarra","F",766,127.2246336,251.904774528
+2013,"Old","Southbank","F",344,57.1348224,113.126948352
+2013,"Old","Kensington","F",635,105.466896,208.82445408
+2014,"Old","Port Melbourne","A",3171,580.0038048,1148.407533504
+2014,"Old","South Yarra","A",1452,265.5835776,525.855483648
+2013,"Old","Southbank","A",731,133.7063328,264.738538944
+2013,"Old","Kensington","A",1159,211.9912992,419.742772416
+2014,"Old","Port Melbourne","M",10,1.99728,3.9546144
+2014,"Old","West Melbourne (Industrial)","M",0,0,0
+2013,"Old","West Melbourne (Residential)","M",150,29.9592,59.319216
+2013,"Old","Parkville","M",437,87.281136,172.81664928
+2014,"Old","Port Melbourne","F",5,0.830448,1.64428704
+2014,"Old","West Melbourne (Industrial)","F",0,0,0
+2013,"Old","West Melbourne (Residential)","F",151,25.0795296,49.657468608
+2013,"Old","Parkville","F",580,96.331968,190.73729664
+2014,"Old","Port Melbourne","A",15,2.743632,5.43239136
+2014,"Old","West Melbourne (Industrial)","A",0,0,0
+2013,"Old","West Melbourne (Residential)","A",301,55.0555488,109.009986624
+2013,"Old","Parkville","A",1017,186.0182496,368.316134208
+2015,"Old","Carlton","M",737,147.199536,291.45508128
+2014,"Old","Melbourne (CBD)","M",507,101.262096,200.49895008
+2013,"Old","Port Melbourne","M",1434,286.409952,567.09170496
+2013,"Old","South Yarra","M",661,132.020208,261.40001184
+2015,"Old","Carlton","F",821,136.3595616,269.991931968
+2014,"Old","Melbourne (CBD)","F",402,66.7680192,132.200678016
+2013,"Old","Port Melbourne","F",1647,273.5495712,541.628150976
+2013,"Old","South Yarra","F",757,125.7298272,248.945057856
+2015,"Old","Carlton","A",1558,284.9719104,564.244382592
+2014,"Old","Melbourne (CBD)","A",909,166.2640992,329.202916416
+2013,"Old","Port Melbourne","A",3081,563.5420128,1115.813185344
+2013,"Old","South Yarra","A",1418,259.3646784,513.542063232
+2015,"Old","Docklands","M",506,101.062368,200.10348864
+2014,"Old","Melbourne (CBD)","M",209,41.743152,82.65144096
+2013,"Old","Port Melbourne","M",11,2.197008,4.35007584
+2013,"Old","West Melbourne (Industrial)","M",0,0,0
+2015,"Old","Docklands","F",412,68.4289152,135.489252096
+2014,"Old","Melbourne (CBD)","F",177,29.3978592,58.207761216
+2013,"Old","Port Melbourne","F",5,0.830448,1.64428704
+2013,"Old","West Melbourne (Industrial)","F",0,0,0
+2015,"Old","Docklands","A",918,167.9102784,332.462351232
+2014,"Old","Melbourne (CBD)","A",386,70.6027968,139.793537664
+2013,"Old","Port Melbourne","A",16,2.9265408,5.794550784
+2013,"Old","West Melbourne (Industrial)","A",0,0,0
+2015,"Old","East Melbourne","M",587,117.240336,232.13586528
+2014,"Old","Melbourne (CBD)","M",206,41.143968,81.46505664
+2014,"Old","Carlton","M",675,134.8164,266.936472
+2013,"Old","Melbourne (CBD)","M",452,90.277056,178.74857088
+2015,"Old","East Melbourne","F",667,110.7817632,219.347891136
+2014,"Old","Melbourne (CBD)","F",195,32.387472,64.12719456
+2014,"Old","Carlton","F",744,123.5706624,244.669911552
+2013,"Old","Melbourne (CBD)","F",360,59.792256,118.38866688
+2015,"Old","East Melbourne","A",1254,229.3676352,454.147917696
+2014,"Old","Melbourne (CBD)","A",401,73.3464288,145.225929024
+2014,"Old","Carlton","A",1419,259.5475872,513.904222656
+2013,"Old","Melbourne (CBD)","A",812,148.5219456,294.073452288
+2015,"Old","Melbourne (Remainder)","M",1,0.199728,0.39546144
+2014,"Old","North Melbourne","M",730,145.80144,288.6868512
+2014,"Old","Docklands","M",453,90.476784,179.14403232
+2013,"Old","Melbourne (CBD)","M",173,34.552944,68.41482912
+2015,"Old","Melbourne (Remainder)","F",0,0,0
+2014,"Old","North Melbourne","F",773,128.3872608,254.206776384
+2014,"Old","Docklands","F",364,60.4566144,119.704096512
+2013,"Old","Melbourne (CBD)","F",132,21.9238272,43.409177856
+2015,"Old","Melbourne (Remainder)","A",1,0.1829088,0.362159424
+2014,"Old","North Melbourne","A",1503,274.9119264,544.325614272
+2014,"Old","Docklands","A",817,149.4364896,295.884249408
+2013,"Old","Melbourne (CBD)","A",305,55.787184,110.45862432
+2015,"Old","Kensington","M",615,122.83272,243.2087856
+2014,"Old","Melbourne (Remainder)","M",0,0,0
+2014,"Old","East Melbourne","M",552,110.249856,218.29471488
+2013,"Old","Melbourne (CBD)","M",187,37.349136,73.95128928
+2015,"Old","Kensington","F",711,118.0897056,233.817617088
+2014,"Old","Melbourne (Remainder)","F",0,0,0
+2014,"Old","East Melbourne","F",639,106.1312544,210.139883712
+2013,"Old","Melbourne (CBD)","F",184,30.5604864,60.509763072
+2015,"Old","Kensington","A",1326,242.5370688,480.223396224
+2016,"Old","Port Melbourne","M",6,1.198368,2.37276864
+2016,"Old","West Melbourne (Industrial)","M",0,0,0
+2015,"Old","West Melbourne (Residential)","M",175,34.9524,69.205752
+2015,"Old","Parkville","M",468,93.472704,185.07595392
+2016,"Old","Port Melbourne","F",8,1.3287168,2.630859264
+2016,"Old","West Melbourne (Industrial)","F",0,0,0
+2015,"Old","West Melbourne (Residential)","F",172,28.5674112,56.563474176
+2015,"Old","Parkville","F",681,113.1070176,223.951894848
+2016,"Old","Port Melbourne","A",14,2.5607232,5.070231936
+2016,"Old","West Melbourne (Industrial)","A",0,0,0
+2015,"Old","West Melbourne (Residential)","A",347,63.4693536,125.669320128
+2015,"Old","Parkville","A",1149,210.1622112,416.121178176
+2017,"Old","Carlton","M",799,159.582672,315.97369056
+2016,"Old","Melbourne (CBD)","M",516,103.059648,204.05810304
+2015,"Old","Port Melbourne","M",1531,305.783568,605.45146464
+2015,"Old","South Yarra","M",713,142.406064,281.96400672
+2017,"Old","Carlton","F",912,151.4737152,299.917956096
+2016,"Old","Melbourne (CBD)","F",453,75.2385888,148.972405824
+2015,"Old","Port Melbourne","F",1742,289.3280832,572.869604736
+2015,"Old","South Yarra","F",789,131.0446944,259.468494912
+2017,"Old","Carlton","A",1711,312.9569568,619.654774464
+2016,"Old","Melbourne (CBD)","A",969,177.2386272,350.932481856
+2015,"Old","Port Melbourne","A",3273,598.6605024,1185.347794752
+2015,"Old","South Yarra","A",1502,274.7290176,543.963454848
+2017,"Old","Docklands","M",658,131.421024,260.21362752
+2016,"Old","Melbourne (CBD)","M",218,43.540704,86.21059392
+2015,"Old","Port Melbourne","M",11,2.197008,4.35007584
+2015,"Old","West Melbourne (Industrial)","M",0,0,0
+2017,"Old","Docklands","F",554,92.0136384,182.187004032
+2016,"Old","Melbourne (CBD)","F",184,30.5604864,60.509763072
+2015,"Old","Port Melbourne","F",5,0.830448,1.64428704
+2015,"Old","West Melbourne (Industrial)","F",0,0,0
+2017,"Old","Docklands","A",1212,221.6854656,438.937221888
+2016,"Old","Melbourne (CBD)","A",402,73.5293376,145.588088448
+2015,"Old","Port Melbourne","A",16,2.9265408,5.794550784
+2015,"Old","West Melbourne (Industrial)","A",0,0,0
+2017,"Old","East Melbourne","M",630,125.82864,249.1407072
+2016,"Old","Melbourne (CBD)","M",294,58.720032,116.26566336
+2016,"Old","Carlton","M",782,156.187296,309.25084608
+2015,"Old","Melbourne (CBD)","M",556,111.048768,219.87656064
+2017,"Old","East Melbourne","F",702,116.5948992,230.857900416
+2016,"Old","Melbourne (CBD)","F",235,39.031056,77.28149088
+2016,"Old","Carlton","F",878,145.8266688,288.736804224
+2015,"Old","Melbourne (CBD)","F",445,73.909872,146.34154656
+2017,"Old","East Melbourne","A",1332,243.6345216,482.396352768
+2016,"Old","Melbourne (CBD)","A",529,96.7587552,191.582335296
+2016,"Old","Carlton","A",1660,303.628608,601.18464384
+2015,"Old","Melbourne (CBD)","A",1001,183.0917088,362.521583424
+2017,"Old","Melbourne (Remainder)","M",0,0,0
+2016,"Old","North Melbourne","M",819,163.577232,323.88291936
+2016,"Old","Docklands","M",565,112.84632,223.4357136
+2015,"Old","Melbourne (CBD)","M",215,42.94152,85.0242096
+2017,"Old","Melbourne (Remainder)","F",0,0,0
+2016,"Old","North Melbourne","F",858,142.5048768,282.159656064
+2016,"Old","Docklands","F",468,77.7299328,153.905266944
+2015,"Old","Melbourne (CBD)","F",197,32.7196512,64.784909376
+2017,"Old","Melbourne (Remainder)","A",0,0,0
+2016,"Old","North Melbourne","A",1677,306.7380576,607.341354048
+2016,"Old","Docklands","A",1033,188.9447904,374.110684992
+2015,"Old","Melbourne (CBD)","A",412,75.3584256,149.209682688
+2017,"Old","Kensington","M",673,134.416944,266.14554912
+2016,"Old","Melbourne (Remainder)","M",0,0,0
+2016,"Old","East Melbourne","M",614,122.632992,242.81332416
+2015,"Old","Melbourne (CBD)","M",248,49.532544,98.07443712
+2017,"Old","Kensington","F",773,128.3872608,254.206776384
+2016,"Old","Melbourne (Remainder)","F",0,0,0
+2016,"Old","East Melbourne","F",696,115.5983616,228.884755968
+2015,"Old","Melbourne (CBD)","F",238,39.5293248,78.268063104
+2017,"Old","Kensington","A",1446,264.4861248,523.682527104
+2016,"Old","Melbourne (Remainder)","A",0,0,0
+2016,"Old","East Melbourne","A",1310,239.610528,474.42884544
+2015,"Old","Melbourne (CBD)","A",486,88.8936768,176.009480064
+2017,"Old","Parkville","M",460,91.87488,181.9122624
+2016,"Old","Southbank","M",401,80.090928,158.58003744
+2016,"Old","Melbourne (Remainder)","M",0,0,0
+2015,"Old","North Melbourne","M",753,150.395184,297.78246432
+2017,"Old","Parkville","F",689,114.4357344,226.582754112
+2016,"Old","Southbank","F",374,62.1175104,122.992670592
+2016,"Old","Melbourne (Remainder)","F",0,0,0
+2015,"Old","North Melbourne","F",801,133.0377696,263.414783808
+2017,"Old","Parkville","A",1149,210.1622112,416.121178176
+2016,"Old","Southbank","A",775,141.75432,280.6735536
+2016,"Old","Melbourne (Remainder)","A",0,0,0
+2015,"Old","North Melbourne","A",1554,284.2402752,562.795744896
+2017,"Old","South Yarra","M",801,159.982128,316.76461344
+2016,"Old","Southbank","M",445,88.87896,175.9803408
+2016,"Old","Kensington","M",648,129.423744,256.25901312
+2015,"Old","Melbourne (Remainder)","M",0,0,0
+2017,"Old","South Yarra","F",897,148.9823712,294.985094976
+2016,"Old","Southbank","F",467,77.5638432,153.576409536
+2016,"Old","Kensington","F",745,123.736752,244.99876896
+2015,"Old","Melbourne (Remainder)","F",0,0,0
+2017,"Old","South Yarra","A",1698,310.5791424,614.946701952
+2016,"Old","Southbank","A",912,166.8128256,330.289394688
+2016,"Old","Kensington","A",1393,254.7919584,504.488077632
+2015,"Old","Melbourne (Remainder)","A",0,0,0
+2017,"Old","West Melbourne (Industrial)","M",0,0,0
+2016,"Old","West Melbourne (Residential)","M",165,32.95512,65.2511376
+2016,"Old","Parkville","M",473,94.471344,187.05326112
+2015,"Old","Southbank","M",360,71.90208,142.3661184
+2017,"Old","West Melbourne (Industrial)","F",0,0,0
+2016,"Old","West Melbourne (Residential)","F",173,28.7335008,56.892331584
+2016,"Old","Parkville","F",711,118.0897056,233.817617088
+2015,"Old","Southbank","F",326,54.1452096,107.207515008
+2017,"Old","West Melbourne (Industrial)","A",0,0,0
+2016,"Old","West Melbourne (Residential)","A",338,61.8231744,122.409885312
+2016,"Old","Parkville","A",1184,216.5640192,428.796758016
+2015,"Old","Southbank","A",686,125.4754368,248.441364864
+2017,"Old","Melbourne (CBD)","M",528,105.456384,208.80364032
+2016,"Old","Port Melbourne","M",1591,317.767248,629.17915104
+2016,"Old","South Yarra","M",734,146.600352,290.26869696
+2015,"Old","Southbank","M",419,83.686032,165.69834336
+2017,"Old","Melbourne (CBD)","F",473,78.5603808,155.549553984
+2016,"Old","Port Melbourne","F",1799,298.7951904,591.614476992
+2016,"Old","South Yarra","F",838,139.1830848,275.582507904
+2015,"Old","Southbank","F",437,72.5811552,143.710687296
+2017,"Old","Melbourne (CBD)","A",1001,183.0917088,362.521583424
+2016,"Old","Port Melbourne","A",3390,620.060832,1227.72044736
+2016,"Old","South Yarra","A",1572,287.5326336,569.314614528
+2015,"Old","Southbank","A",856,156.5699328,310.008466944
+2017,"Old","Melbourne (CBD)","M",231,46.137168,91.35159264
+2019,"Old","Melbourne (Remainder)","F",0,0,0
+2018,"Old","North Melbourne","F",920,152.802432,302.54881536
+2018,"Old","Docklands","F",631,104.8025376,207.509024448
+2017,"Old","Melbourne (CBD)","F",201,33.3840096,66.100339008
+2019,"Old","Melbourne (Remainder)","A",0,0,0
+2018,"Old","North Melbourne","A",1744,318.9929472,631.606035456
+2018,"Old","Docklands","A",1357,248.2072416,491.450338368
+2017,"Old","Melbourne (CBD)","A",432,79.0166016,156.452871168
+2019,"Old","Kensington","M",708,141.407424,279.98669952
+2018,"Old","Melbourne (Remainder)","M",0,0,0
+2018,"Old","East Melbourne","M",631,126.028368,249.53616864
+2017,"Old","Melbourne (CBD)","M",340,67.90752,134.4568896
+2019,"Old","Kensington","F",787,130.7125152,258.810780096
+2018,"Old","Melbourne (Remainder)","F",0,0,0
+2018,"Old","East Melbourne","F",698,115.9305408,229.542470784
+2017,"Old","Melbourne (CBD)","F",288,47.8338048,94.710933504
+2019,"Old","Kensington","A",1495,273.448656,541.42833888
+2018,"Old","Melbourne (Remainder)","A",0,0,0
+2018,"Old","East Melbourne","A",1329,243.0857952,481.309874496
+2017,"Old","Melbourne (CBD)","A",628,114.8667264,227.436118272
+2019,"Old","Parkville","M",430,85.88304,170.0484192
+2018,"Old","Southbank","M",423,84.484944,167.28018912
+2018,"Old","Melbourne (Remainder)","M",0,0,0
+2017,"Old","North Melbourne","M",810,161.77968,320.3237664
+2019,"Old","Parkville","F",623,103.4738208,204.878165184
+2018,"Old","Southbank","F",402,66.7680192,132.200678016
+2018,"Old","Melbourne (Remainder)","F",0,0,0
+2017,"Old","North Melbourne","F",873,144.9962208,287.092517184
+2019,"Old","Parkville","A",1053,192.6029664,381.353873472
+2018,"Old","Southbank","A",825,150.89976,298.7815248
+2018,"Old","Melbourne (Remainder)","A",0,0,0
+2017,"Old","North Melbourne","A",1683,307.8355104,609.514310592
+2019,"Old","South Yarra","M",832,166.173696,329.02391808
+2018,"Old","Southbank","M",495,98.86536,195.7534128
+2018,"Old","Kensington","M",679,135.615312,268.51831776
+2017,"Old","Melbourne (Remainder)","M",0,0,0
+2019,"Old","South Yarra","F",953,158.2833888,313.401109824
+2018,"Old","Southbank","F",532,88.3596672,174.952141056
+2018,"Old","Kensington","F",780,129.549888,256.50877824
+2017,"Old","Melbourne (Remainder)","F",0,0,0
+2019,"Old","South Yarra","A",1785,326.492208,646.45457184
+2018,"Old","Southbank","A",1027,187.8473376,371.937728448
+2018,"Old","Kensington","A",1459,266.8639392,528.390599616
+2017,"Old","Melbourne (Remainder)","A",0,0,0
+2019,"Old","West Melbourne (Industrial)","M",2,0.399456,0.79092288
+2018,"Old","West Melbourne (Residential)","M",190,37.94832,75.1376736
+2018,"Old","Parkville","M",446,89.078688,176.37580224
+2017,"Old","Southbank","M",415,82.88712,164.1164976
+2019,"Old","West Melbourne (Industrial)","F",1,0.1660896,0.328857408
+2018,"Old","West Melbourne (Residential)","F",204,33.8822784,67.086911232
+2018,"Old","Parkville","F",655,108.788688,215.40160224
+2017,"Old","Southbank","F",393,65.2732128,129.240961344
+2019,"Old","West Melbourne (Industrial)","A",3,0.5487264,1.086478272
+2018,"Old","West Melbourne (Residential)","A",394,72.0660672,142.690813056
+2018,"Old","Parkville","A",1101,201.3825888,398.737525824
+2017,"Old","Southbank","A",808,147.7903104,292.624814592
+2019,"Old","Melbourne (CBD)","M",557,111.248496,220.27202208
+2018,"Old","Port Melbourne","M",1705,340.53624,674.2617552
+2018,"Old","South Yarra","M",817,163.177776,323.09199648
+2017,"Old","Southbank","M",466,93.073248,184.28503104
+2019,"Old","Melbourne (CBD)","F",477,79.2247392,156.864983616
+2018,"Old","Port Melbourne","F",1891,314.0754336,621.869358528
+2018,"Old","South Yarra","F",926,153.7989696,304.521959808
+2017,"Old","Southbank","F",502,83.3769792,165.086418816
+2019,"Old","Melbourne (CBD)","A",1034,189.1276992,374.472844416
+2018,"Old","Port Melbourne","A",3596,657.7400448,1302.325288704
+2018,"Old","South Yarra","A",1743,318.8100384,631.243876032
+2017,"Old","Southbank","A",968,177.0557184,350.570322432
+2019,"Old","Melbourne (CBD)","M",248,49.532544,98.07443712
+2018,"Old","Port Melbourne","M",11,2.197008,4.35007584
+2018,"Old","West Melbourne (Industrial)","M",0,0,0
+2017,"Old","West Melbourne (Residential)","M",175,34.9524,69.205752
+2019,"Old","Melbourne (CBD)","F",232,38.5327872,76.294918656
+2018,"Old","Port Melbourne","F",15,2.491344,4.93286112
+2018,"Old","West Melbourne (Industrial)","F",1,0.1660896,0.328857408
+2017,"Old","West Melbourne (Residential)","F",183,30.3943968,60.180905664
+2019,"Old","Melbourne (CBD)","A",480,87.796224,173.83652352
+2018,"Old","Port Melbourne","A",26,4.7556288,9.416145024
+2018,"Old","West Melbourne (Industrial)","A",1,0.1829088,0.362159424
+2017,"Old","West Melbourne (Residential)","A",358,65.4813504,129.653073792
+2019,"Old","Melbourne (CBD)","M",348,69.505344,137.62058112
+2019,"Old","Carlton","M",822,164.176416,325.06930368
+2018,"Old","Melbourne (CBD)","M",537,107.253936,212.36279328
+2017,"Old","Port Melbourne","M",1662,331.947936,657.25691328
+2019,"Old","Melbourne (CBD)","F",328,54.4773888,107.865229824
+2019,"Old","Carlton","F",1008,167.4183168,331.488267264
+2018,"Old","Melbourne (CBD)","F",477,79.2247392,156.864983616
+2017,"Old","Port Melbourne","F",1855,308.096208,610.03049184
+2019,"Old","Melbourne (CBD)","A",676,123.6463488,244.819770624
+2019,"Old","Carlton","A",1830,334.723104,662.75174592
+2018,"Old","Melbourne (CBD)","A",1014,185.4695232,367.229655936
+2017,"Old","Port Melbourne","A",3517,643.2902496,1273.714694208
+2019,"Old","North Melbourne","M",852,170.168256,336.93314688
+2019,"Old","Docklands","M",761,151.993008,300.94615584
+2018,"Old","Melbourne (CBD)","M",236,47.135808,93.32889984
+2017,"Old","Port Melbourne","M",7,1.398096,2.76823008
+2019,"Old","North Melbourne","F",981,162.9338976,322.609117248
+2019,"Old","Docklands","F",677,112.4426592,222.636465216
+2018,"Old","Melbourne (CBD)","F",211,35.0449056,69.388913088
+2017,"Old","Port Melbourne","F",10,1.660896,3.28857408
+2019,"Old","North Melbourne","A",1833,335.2718304,663.838224192
+2019,"Old","Docklands","A",1438,263.0228544,520.785251712
+2018,"Old","Melbourne (CBD)","A",447,81.7602336,161.885262528
+2017,"Old","Port Melbourne","A",17,3.1094496,6.156710208
+2019,"Old","Melbourne (Remainder)","M",0,0,0
+2019,"Old","East Melbourne","M",649,129.623472,256.65447456
+2018,"Old","Melbourne (CBD)","M",360,71.90208,142.3661184
+2018,"Old","Carlton","M",804,160.581312,317.95099776
+2019,"Old","Melbourne (Remainder)","F",0,0,0
+2019,"Old","East Melbourne","F",723,120.0827808,237.763905984
+2018,"Old","Melbourne (CBD)","F",311,51.6538656,102.274653888
+2018,"Old","Carlton","F",960,159.446016,315.70311168
+2019,"Old","Melbourne (Remainder)","A",0,0,0
+2019,"Old","East Melbourne","A",1372,250.9508736,496.882729728
+2018,"Old","Melbourne (CBD)","A",671,122.7318048,243.008973504
+2018,"Old","Carlton","A",1764,322.6511232,638.849223936
+2019,"Old","Southbank","M",427,85.283856,168.86203488
+2019,"Old","Melbourne (Remainder)","M",0,0,0
+2018,"Old","North Melbourne","M",824,164.575872,325.86022656
+2018,"Old","Docklands","M",726,145.002528,287.10500544
+2019,"Old","Southbank","F",419,69.5915424,137.791253952
+2021,"Old","West Melbourne (Industrial)","A",0,0,0
+2020,"Old","West Melbourne (Residential)","A",451,82.4918688,163.333900224
+2020,"Old","Parkville","A",1036,189.4935168,375.197163264
+2019,"Old","Southbank","A",846,154.7408448,306.386872704
+2021,"Old","Melbourne (CBD)","M",485,96.86808,191.7987984
+2020,"Old","Port Melbourne","M",1812,361.907136,716.57612928
+2020,"Old","South Yarra","M",854,170.567712,337.72406976
+2019,"Old","Southbank","M",521,104.058288,206.03541024
+2021,"Old","Melbourne (CBD)","F",429,71.2524384,141.079828032
+2020,"Old","Port Melbourne","F",1994,331.1826624,655.741671552
+2020,"Old","South Yarra","F",994,165.0930624,326.884263552
+2019,"Old","Southbank","F",570,94.671072,187.44872256
+2021,"Old","Melbourne (CBD)","A",914,167.1786432,331.013713536
+2020,"Old","Port Melbourne","A",3806,696.1508928,1378.378767744
+2020,"Old","South Yarra","A",1848,338.0154624,669.270615552
+2019,"Old","Southbank","A",1091,199.5535008,395.115931584
+2021,"Old","Melbourne (CBD)","M",266,53.127648,105.19274304
+2020,"Old","Port Melbourne","M",33,6.591024,13.05022752
+2020,"Old","West Melbourne (Industrial)","M",0,0,0
+2019,"Old","West Melbourne (Residential)","M",196,39.146688,77.51044224
+2021,"Old","Melbourne (CBD)","F",240,39.861504,78.92577792
+2020,"Old","Port Melbourne","F",31,5.1487776,10.194579648
+2020,"Old","West Melbourne (Industrial)","F",0,0,0
+2019,"Old","West Melbourne (Residential)","F",220,36.539712,72.34862976
+2021,"Old","Melbourne (CBD)","A",506,92.5518528,183.252668544
+2020,"Old","Port Melbourne","A",64,11.7061632,23.178203136
+2020,"Old","West Melbourne (Industrial)","A",0,0,0
+2019,"Old","West Melbourne (Residential)","A",416,76.0900608,150.658320384
+2021,"Old","Melbourne (CBD)","M",333,66.509424,131.68865952
+2021,"Old","Carlton","M",796,158.983488,314.78730624
+2020,"Old","Melbourne (CBD)","M",553,110.449584,218.69017632
+2019,"Old","Port Melbourne","M",1784,356.314752,705.50320896
+2021,"Old","Melbourne (CBD)","F",317,52.6504032,104.247798336
+2021,"Old","Carlton","F",950,157.78512,312.4145376
+2020,"Old","Melbourne (CBD)","F",484,80.3873664,159.166985472
+2019,"Old","Port Melbourne","F",1937,321.7155552,636.996799296
+2021,"Old","Melbourne (CBD)","A",650,118.89072,235.4036256
+2021,"Old","Carlton","A",1746,319.3587648,632.330354304
+2020,"Old","Melbourne (CBD)","A",1037,189.6764256,375.559322688
+2019,"Old","Port Melbourne","A",3721,680.6036448,1347.595216704
+2021,"Old","North Melbourne","M",880,175.76064,348.0060672
+2021,"Old","Docklands","M",780,155.78784,308.4599232
+2020,"Old","Melbourne (CBD)","M",259,51.729552,102.42451296
+2019,"Old","Port Melbourne","M",21,4.194288,8.30469024
+2021,"Old","North Melbourne","F",916,152.1380736,301.233385728
+2021,"Old","Docklands","F",714,118.5879744,234.804189312
+2020,"Old","Melbourne (CBD)","F",245,40.691952,80.57006496
+2019,"Old","Port Melbourne","F",22,3.6539712,7.234862976
+2021,"Old","North Melbourne","A",1796,328.5042048,650.438325504
+2021,"Old","Docklands","A",1494,273.2657472,541.066179456
+2020,"Old","Melbourne (CBD)","A",504,92.1860352,182.528349696
+2019,"Old","Port Melbourne","A",43,7.8650784,15.572855232
+2021,"Old","Melbourne (Remainder)","M",0,0,0
+2021,"Old","East Melbourne","M",661,132.020208,261.40001184
+2020,"Old","Melbourne (CBD)","M",355,70.90344,140.3888112
+2020,"Old","Carlton","M",865,172.76472,342.0741456
+2021,"Old","Melbourne (Remainder)","F",0,0,0
+2021,"Old","East Melbourne","F",755,125.397648,248.28734304
+2020,"Old","Melbourne (CBD)","F",343,56.9687328,112.798090944
+2020,"Old","Carlton","F",1063,176.5532448,349.575424704
+2021,"Old","Melbourne (Remainder)","A",0,0,0
+2021,"Old","East Melbourne","A",1416,258.9988608,512.817744384
+2020,"Old","Melbourne (CBD)","A",698,127.6703424,252.787277952
+2020,"Old","Carlton","A",1928,352.6481664,698.243369472
+2021,"Old","Southbank","M",395,78.89256,156.2072688
+2021,"Old","Melbourne (Remainder)","M",1,0.199728,0.39546144
+2020,"Old","North Melbourne","M",896,178.956288,354.33345024
+2020,"Old","Docklands","M",780,155.78784,308.4599232
+2021,"Old","Southbank","F",407,67.5984672,133.844965056
+2021,"Old","Melbourne (Remainder)","F",0,0,0
+2020,"Old","North Melbourne","F",1025,170.24184,337.0788432
+2020,"Old","Docklands","F",704,116.9270784,231.515615232
+2021,"Old","Southbank","A",802,146.6928576,290.451858048
+2021,"Old","Melbourne (Remainder)","A",1,0.1829088,0.362159424
+2020,"Old","North Melbourne","A",1921,351.3678048,695.708253504
+2020,"Old","Docklands","A",1484,271.4366592,537.444585216
+2021,"Old","Southbank","M",548,109.450944,216.71286912
+2021,"Old","Kensington","M",734,146.600352,290.26869696
+2020,"Old","Melbourne (Remainder)","M",0,0,0
+2020,"Old","East Melbourne","M",678,135.415584,268.12285632
+2021,"Old","Southbank","F",584,96.9963264,192.052726272
+2021,"Old","Kensington","F",809,134.3664864,266.045643072
+2020,"Old","Melbourne (Remainder)","F",0,0,0
+2020,"Old","East Melbourne","F",759,126.0620064,249.602772672
+2021,"Old","Southbank","A",1132,207.0527616,409.964467968
+2021,"Old","Kensington","A",1543,282.2282784,558.811991232
+2020,"Old","Melbourne (Remainder)","A",0,0,0
+2020,"Old","East Melbourne","A",1437,262.8399456,520.423092288
+2021,"Old","West Melbourne (Residential)","M",212,42.342336,83.83782528
+2021,"Old","Parkville","M",407,81.289296,160.95280608
+2020,"Old","Southbank","M",422,84.285216,166.88472768
+2020,"Old","Melbourne (Remainder)","M",1,0.199728,0.39546144
+2021,"Old","West Melbourne (Residential)","F",256,42.5189376,84.187496448
+2021,"Old","Parkville","F",523,86.8648608,171.992424384
+2020,"Old","Southbank","F",428,71.0863488,140.750970624
+2020,"Old","Melbourne (Remainder)","F",0,0,0
+2021,"Old","West Melbourne (Residential)","A",468,85.6013184,169.490610432
+2021,"Old","Parkville","A",930,170.105184,336.80826432
+2020,"Old","Southbank","A",850,155.47248,307.8355104
+2020,"Old","Melbourne (Remainder)","A",1,0.1829088,0.362159424
+2021,"Old","Port Melbourne","M",1759,351.321552,695.61667296
+2021,"Old","South Yarra","M",836,166.972608,330.60576384
+2020,"Old","Southbank","M",531,106.055568,209.99002464
+2020,"Old","Kensington","M",724,144.603072,286.31408256
+2021,"Old","Port Melbourne","F",2012,334.1722752,661.661104896
+2021,"Old","South Yarra","F",990,164.428704,325.56883392
+2020,"Old","Southbank","F",592,98.3250432,194.683585536
+2020,"Old","Kensington","F",807,134.0343072,265.387928256
+2021,"Old","Port Melbourne","A",3771,689.7490848,1365.703187904
+2021,"Old","South Yarra","A",1826,333.9914688,661.303108224
+2020,"Old","Southbank","A",1123,205.4065824,406.705033152
+2020,"Old","Kensington","A",1531,280.0333728,554.466078144
+2021,"Old","Port Melbourne","M",36,7.190208,14.23661184
+2021,"Old","West Melbourne (Industrial)","M",0,0,0
+2020,"Old","West Melbourne (Residential)","M",211,42.142608,83.44236384
+2020,"Old","Parkville","M",431,86.082768,170.44388064
+2021,"Old","Port Melbourne","F",32,5.3148672,10.523437056
+2021,"Old","West Melbourne (Industrial)","F",0,0,0
+2020,"Old","West Melbourne (Residential)","F",240,39.861504,78.92577792
+2020,"Old","Parkville","F",605,100.484208,198.95873184
+2021,"Old","Port Melbourne","A",68,12.4377984,24.626840832
+2011,"Teen","Melbourne (CBD)","M",292,65.8408608,130.364904384
+2011,"Teen","Melbourne (CBD)","M",270,60.880248,120.54289104
+2011,"Teen","West Melbourne (Industrial)","M",0,0,0
+2011,"Teen","Melbourne (CBD)","F",395,72.871812,144.28618776
+2011,"Teen","Melbourne (CBD)","F",298,54.9767088,108.853883424
+2011,"Teen","West Melbourne (Industrial)","F",0,0,0
+2011,"Teen","South Yarra","F",230,42.431688,84.01474224
+2011,"Teen","Melbourne (CBD)","A",687,140.824008,278.83153584
+2011,"Teen","Melbourne (CBD)","A",568,116.430912,230.53320576
+2011,"Teen","West Melbourne (Industrial)","A",0,0,0
+2011,"Teen","South Yarra","A",428,87.733152,173.71164096
+2011,"Teen","Melbourne (CBD)","M",256,57.7234944,114.292518912
+2011,"Teen","Carlton","M",758,170.9156592,338.413005216
+2012,"Teen","Melbourne (Remainder)","F",0,0,0
+2012,"Teen","East Melbourne","F",86,15.8657616,31.414207968
+2011,"Teen","Melbourne (CBD)","F",259,47.7817704,94.607905392
+2011,"Teen","Carlton","F",913,168.4353528,333.501998544
+2012,"Teen","Melbourne (Remainder)","A",0,0,0
+2012,"Teen","East Melbourne","A",174,35.667216,70.62108768
+2011,"Teen","Melbourne (CBD)","A",515,105.56676,209.0221848
+2011,"Teen","Carlton","A",1671,342.528264,678.20596272
+2012,"Teen","Southbank","M",149,33.5968776,66.521817648
+2012,"Teen","Melbourne (Remainder)","M",3,0.6764472,1.339365456
+2011,"Teen","North Melbourne","M",595,134.162028,265.64081544
+2011,"Teen","Docklands","M",148,33.3713952,66.075362496
+2012,"Teen","Southbank","F",178,32.8384368,65.020104864
+2012,"Teen","Melbourne (Remainder)","F",0,0,0
+2011,"Teen","North Melbourne","F",589,108.6620184,215.150796432
+2011,"Teen","Docklands","F",166,30.6246096,60.636727008
+2012,"Teen","Southbank","A",327,67.029768,132.71894064
+2012,"Teen","Melbourne (Remainder)","A",3,0.614952,1.21760496
+2011,"Teen","North Melbourne","A",1184,242.701056,480.54809088
+2011,"Teen","Docklands","A",314,64.364976,127.44265248
+2012,"Teen","Southbank","M",194,43.7435856,86.612299488
+2012,"Teen","Kensington","M",316,71.2524384,141.079828032
+2011,"Teen","Melbourne (Remainder)","M",0,0,0
+2011,"Teen","East Melbourne","M",82,18.4895568,36.609322464
+2012,"Teen","Southbank","F",234,43.1696304,85.475868192
+2012,"Teen","Kensington","F",328,60.5112768,119.812328064
+2011,"Teen","Melbourne (Remainder)","F",0,0,0
+2011,"Teen","East Melbourne","F",81,14.9433336,29.587800528
+2012,"Teen","Southbank","A",428,87.733152,173.71164096
+2012,"Teen","Kensington","A",644,132.009696,261.37919808
+2011,"Teen","Melbourne (Remainder)","A",0,0,0
+2011,"Teen","East Melbourne","A",163,33.412392,66.15653616
+2012,"Teen","West Melbourne (Residential)","M",128,28.8617472,57.146259456
+2012,"Teen","Parkville","M",571,128.7504504,254.925891792
+2011,"Teen","Southbank","M",135,30.440124,60.27144552
+2011,"Teen","Melbourne (Remainder)","M",9,2.0293416,4.018096368
+2012,"Teen","West Melbourne (Residential)","F",101,18.6330456,36.893430288
+2012,"Teen","Parkville","F",710,130.984776,259.34985648
+2011,"Teen","Southbank","F",149,27.4883544,54.426941712
+2011,"Teen","Melbourne (Remainder)","F",0,0,0
+2012,"Teen","West Melbourne (Residential)","A",229,46.941336,92.94384528
+2012,"Teen","Parkville","A",1281,262.584504,519.91731792
+2011,"Teen","Southbank","A",284,58.215456,115.26660288
+2011,"Teen","Melbourne (Remainder)","A",9,1.844856,3.65281488
+2012,"Teen","Port Melbourne","M",443,99.8887032,197.779632336
+2012,"Teen","South Yarra","M",217,48.9296808,96.880767984
+2011,"Teen","Southbank","M",175,39.45942,78.1296516
+2011,"Teen","Kensington","M",308,69.4485792,137.508186816
+2012,"Teen","Port Melbourne","F",427,78.7753512,155.975195376
+2012,"Teen","South Yarra","F",227,41.8782312,82.918897776
+2011,"Teen","Southbank","F",204,37.6350624,74.517423552
+2011,"Teen","Kensington","F",311,57.3750216,113.602542768
+2012,"Teen","Port Melbourne","A",870,178.33608,353.1054384
+2012,"Teen","South Yarra","A",444,91.012896,180.20553408
+2011,"Teen","Southbank","A",379,77.688936,153.82409328
+2011,"Teen","Kensington","A",619,126.885096,251.23249008
+2012,"Teen","Port Melbourne","M",3,0.6764472,1.339365456
+2012,"Teen","West Melbourne (Industrial)","M",0,0,0
+2011,"Teen","West Melbourne (Residential)","M",118,26.6069232,52.681707936
+2011,"Teen","Parkville","M",564,127.1720736,251.800705728
+2012,"Teen","Port Melbourne","F",0,0,0
+2012,"Teen","West Melbourne (Industrial)","F",0,0,0
+2011,"Teen","West Melbourne (Residential)","F",98,18.0795888,35.797585824
+2011,"Teen","Parkville","F",686,126.5571216,250.583100768
+2012,"Teen","Port Melbourne","A",3,0.614952,1.21760496
+2012,"Teen","West Melbourne (Industrial)","A",0,0,0
+2011,"Teen","West Melbourne (Residential)","A",216,44.276544,87.66755712
+2011,"Teen","Parkville","A",1250,256.23,507.3354
+2013,"Teen","Carlton","M",961,216.6885864,429.043401072
+2012,"Teen","Melbourne (CBD)","M",275,62.00766,122.7751668
+2011,"Teen","Port Melbourne","M",403,90.8694072,179.921426256
+2011,"Teen","South Yarra","M",198,44.6455152,88.398120096
+2013,"Teen","Carlton","F",1269,234.1122264,463.542208272
+2012,"Teen","Melbourne (CBD)","F",315,58.112964,115.06366872
+2011,"Teen","Port Melbourne","F",416,76.7460096,151.957099008
+2013,"Teen","Melbourne (CBD)","A",749,153.533016,303.99537168
+2013,"Teen","Carlton","A",2230,457.11432,905.0863536
+2012,"Teen","Melbourne (CBD)","A",590,120.94056,239.4623088
+2011,"Teen","Port Melbourne","A",819,167.881896,332.40615408
+2013,"Teen","North Melbourne","M",670,151.073208,299.12495184
+2013,"Teen","Docklands","M",183,41.2632792,81.701292816
+2012,"Teen","Melbourne (CBD)","M",416,93.8006784,185.725343232
+2011,"Teen","Port Melbourne","M",1,0.2254824,0.446455152
+2013,"Teen","North Melbourne","F",681,125.6346936,248.756693328
+2013,"Teen","Docklands","F",218,40.2178608,79.631364384
+2012,"Teen","Melbourne (CBD)","F",554,102.2050224,202.365944352
+2011,"Teen","Port Melbourne","F",0,0,0
+2013,"Teen","North Melbourne","A",1351,276.933384,548.32810032
+2013,"Teen","Docklands","A",401,82.198584,162.75319632
+2012,"Teen","Melbourne (CBD)","A",970,198.83448,393.6922704
+2011,"Teen","Port Melbourne","A",1,0.204984,0.40586832
+2013,"Teen","Melbourne (Remainder)","M",0,0,0
+2013,"Teen","East Melbourne","M",90,20.293416,40.18096368
+2012,"Teen","Melbourne (CBD)","M",295,66.517308,131.70426984
+2012,"Teen","Carlton","M",837,188.7287688,373.682962224
+2013,"Teen","Melbourne (Remainder)","F",0,0,0
+2013,"Teen","East Melbourne","F",89,16.4192184,32.510052432
+2012,"Teen","Melbourne (CBD)","F",322,59.4043632,117.620639136
+2012,"Teen","Carlton","F",1078,198.8754768,393.773444064
+2013,"Teen","Melbourne (Remainder)","A",0,0,0
+2013,"Teen","East Melbourne","A",179,36.692136,72.65042928
+2012,"Teen","Melbourne (CBD)","A",617,126.475128,250.42075344
+2012,"Teen","Carlton","A",1915,392.54436,777.2378328
+2013,"Teen","Southbank","M",149,33.5968776,66.521817648
+2013,"Teen","Melbourne (Remainder)","M",3,0.6764472,1.339365456
+2012,"Teen","North Melbourne","M",622,140.2500528,277.695104544
+2012,"Teen","Docklands","M",164,36.9791136,73.218644928
+2013,"Teen","Southbank","F",184,33.9453504,67.211793792
+2013,"Teen","Melbourne (Remainder)","F",0,0,0
+2012,"Teen","North Melbourne","F",627,115.6724712,229.031492976
+2012,"Teen","Docklands","F",184,33.9453504,67.211793792
+2013,"Teen","Southbank","A",333,68.259672,135.15415056
+2013,"Teen","Melbourne (Remainder)","A",3,0.614952,1.21760496
+2012,"Teen","North Melbourne","A",1249,256.025016,506.92953168
+2012,"Teen","Docklands","A",348,71.334432,141.24217536
+2013,"Teen","Southbank","M",240,54.115776,107.14923648
+2013,"Teen","Kensington","M",318,71.7034032,141.972738336
+2012,"Teen","Melbourne (Remainder)","M",0,0,0
+2012,"Teen","East Melbourne","M",88,19.8424512,39.288053376
+2013,"Teen","Southbank","F",296,54.6077376,108.123320448
+2013,"Teen","Kensington","F",335,61.802676,122.36929848
+2014,"Teen","Port Melbourne","A",1010,207.03384,409.9270032
+2014,"Teen","South Yarra","A",433,88.758072,175.74098256
+2013,"Teen","Southbank","A",536,109.871424,217.54541952
+2013,"Teen","Kensington","A",653,133.854552,265.03201296
+2014,"Teen","Port Melbourne","M",0,0,0
+2014,"Teen","West Melbourne (Industrial)","M",0,0,0
+2013,"Teen","West Melbourne (Residential)","M",135,30.440124,60.27144552
+2013,"Teen","Parkville","M",585,131.907204,261.17626392
+2014,"Teen","Port Melbourne","F",0,0,0
+2014,"Teen","West Melbourne (Industrial)","F",0,0,0
+2013,"Teen","West Melbourne (Residential)","F",114,21.0313584,41.642089632
+2013,"Teen","Parkville","F",734,135.4124304,268.116612192
+2014,"Teen","Port Melbourne","A",0,0,0
+2014,"Teen","West Melbourne (Industrial)","A",0,0,0
+2013,"Teen","West Melbourne (Residential)","A",249,51.041016,101.06121168
+2013,"Teen","Parkville","A",1319,270.373896,535.34031408
+2015,"Teen","Carlton","M",1218,274.6375632,543.782375136
+2014,"Teen","Melbourne (CBD)","M",349,78.6933576,155.812848048
+2013,"Teen","Port Melbourne","M",474,106.8786576,211.619742048
+2013,"Teen","South Yarra","M",219,49.3806456,97.773678288
+2015,"Teen","Carlton","F",1646,303.6632976,601.253329248
+2014,"Teen","Melbourne (CBD)","F",396,73.0562976,144.651469248
+2013,"Teen","Port Melbourne","F",458,84.4944048,167.298921504
+2013,"Teen","South Yarra","F",219,40.4023464,79.996645872
+2015,"Teen","Carlton","A",2864,587.074176,1162.40686848
+2014,"Teen","Melbourne (CBD)","A",745,152.71308,302.3718984
+2013,"Teen","Port Melbourne","A",932,191.045088,378.26927424
+2013,"Teen","South Yarra","A",438,89.782992,177.77032416
+2015,"Teen","Docklands","M",239,53.8902936,106.702781328
+2014,"Teen","Melbourne (CBD)","M",676,152.4261024,301.803682752
+2013,"Teen","Port Melbourne","M",2,0.4509648,0.892910304
+2013,"Teen","West Melbourne (Industrial)","M",0,0,0
+2015,"Teen","Docklands","F",291,53.6853096,106.296913008
+2014,"Teen","Melbourne (CBD)","F",925,170.64918,337.8853764
+2013,"Teen","Port Melbourne","F",0,0,0
+2013,"Teen","West Melbourne (Industrial)","F",0,0,0
+2015,"Teen","Docklands","A",530,108.64152,215.1102096
+2014,"Teen","Melbourne (CBD)","A",1601,328.179384,649.79518032
+2013,"Teen","Port Melbourne","A",2,0.409968,0.81173664
+2013,"Teen","West Melbourne (Industrial)","A",0,0,0
+2015,"Teen","East Melbourne","M",85,19.166004,37.94868792
+2014,"Teen","Melbourne (CBD)","M",377,85.0068648,168.313592304
+2014,"Teen","Carlton","M",1095,246.903228,488.86839144
+2013,"Teen","Melbourne (CBD)","M",314,70.8014736,140.186917728
+2015,"Teen","East Melbourne","F",83,15.3123048,30.318363504
+2014,"Teen","Melbourne (CBD)","F",468,86.3392608,170.951736384
+2014,"Teen","Carlton","F",1442,266.0282352,526.735905696
+2013,"Teen","Melbourne (CBD)","F",371,68.4441576,135.519432048
+2015,"Teen","East Melbourne","A",168,34.437312,68.18587776
+2014,"Teen","Melbourne (CBD)","A",845,173.21148,342.9587304
+2014,"Teen","Carlton","A",2537,520.044408,1029.68792784
+2013,"Teen","Melbourne (CBD)","A",685,140.41404,278.0197992
+2015,"Teen","Melbourne (Remainder)","M",3,0.6764472,1.339365456
+2014,"Teen","North Melbourne","M",705,158.965092,314.75088216
+2014,"Teen","Docklands","M",214,48.2532336,95.541402528
+2013,"Teen","Melbourne (CBD)","M",555,125.142732,247.78260936
+2015,"Teen","Melbourne (Remainder)","F",0,0,0
+2014,"Teen","North Melbourne","F",745,137.441772,272.13470856
+2014,"Teen","Docklands","F",252,46.4903712,92.050934976
+2013,"Teen","Melbourne (CBD)","F",735,135.596916,268.48189368
+2015,"Teen","Melbourne (Remainder)","A",3,0.614952,1.21760496
+2014,"Teen","North Melbourne","A",1450,297.2268,588.509064
+2014,"Teen","Docklands","A",466,95.522544,189.13463712
+2013,"Teen","Melbourne (CBD)","A",1290,264.42936,523.5701328
+2015,"Teen","Kensington","M",341,76.8894984,152.241206832
+2014,"Teen","Melbourne (Remainder)","M",0,0,0
+2014,"Teen","East Melbourne","M",84,18.9405216,37.502232768
+2013,"Teen","Melbourne (CBD)","M",340,76.664016,151.79475168
+2015,"Teen","Kensington","F",347,64.0165032,126.752676336
+2014,"Teen","Melbourne (Remainder)","F",0,0,0
+2014,"Teen","East Melbourne","F",86,15.8657616,31.414207968
+2013,"Teen","Melbourne (CBD)","F",409,75.4546104,149.400128592
+2015,"Teen","Kensington","A",688,141.028992,279.23740416
+2014,"Teen","Melbourne (Remainder)","A",0,0,0
+2014,"Teen","East Melbourne","A",170,34.84728,68.9976144
+2015,"Teen","West Melbourne (Residential)","M",143,32.2439832,63.843086736
+2015,"Teen","Parkville","M",594,133.9365456,265.194360288
+2014,"Teen","Southbank","M",143,32.2439832,63.843086736
+2014,"Teen","Melbourne (Remainder)","M",3,0.6764472,1.339365456
+2015,"Teen","West Melbourne (Residential)","F",132,24.3520992,48.217156416
+2015,"Teen","Parkville","F",789,145.5591384,288.207094032
+2014,"Teen","Southbank","F",188,34.6832928,68.672919744
+2014,"Teen","Melbourne (Remainder)","F",0,0,0
+2015,"Teen","West Melbourne (Residential)","A",275,56.3706,111.613788
+2015,"Teen","Parkville","A",1383,283.492872,561.31588656
+2014,"Teen","Southbank","A",331,67.849704,134.34241392
+2014,"Teen","Melbourne (Remainder)","A",3,0.614952,1.21760496
+2015,"Teen","Port Melbourne","M",546,123.1133904,243.764512992
+2015,"Teen","South Yarra","M",208,46.9003392,92.862671616
+2014,"Teen","Southbank","M",265,59.752836,118.31061528
+2014,"Teen","Kensington","M",323,72.8308152,144.205014096
+2015,"Teen","Port Melbourne","F",504,92.9807424,184.101869952
+2015,"Teen","South Yarra","F",236,43.5386016,86.206431168
+2014,"Teen","Southbank","F",332,61.2492192,121.273454016
+2014,"Teen","Kensington","F",349,64.3854744,127.483239312
+2015,"Teen","Port Melbourne","A",1050,215.2332,426.161736
+2015,"Teen","South Yarra","A",444,91.012896,180.20553408
+2014,"Teen","Southbank","A",597,122.375448,242.30338704
+2014,"Teen","Kensington","A",672,137.749248,272.74351104
+2015,"Teen","Port Melbourne","M",0,0,0
+2015,"Teen","West Melbourne (Industrial)","M",0,0,0
+2014,"Teen","West Melbourne (Residential)","M",146,32.9204304,65.182452192
+2014,"Teen","Parkville","M",592,133.4855808,264.301449984
+2015,"Teen","Port Melbourne","F",0,0,0
+2015,"Teen","West Melbourne (Industrial)","F",0,0,0
+2014,"Teen","West Melbourne (Residential)","F",121,22.3227576,44.199060048
+2014,"Teen","Parkville","F",761,140.3935416,277.979212368
+2015,"Teen","Port Melbourne","A",0,0,0
+2015,"Teen","West Melbourne (Industrial)","A",0,0,0
+2014,"Teen","West Melbourne (Residential)","A",267,54.730728,108.36684144
+2014,"Teen","Parkville","A",1353,277.343352,549.13983696
+2016,"Teen","Carlton","M",1352,304.8522048,603.607365504
+2015,"Teen","Melbourne (CBD)","M",379,85.4578296,169.206502608
+2014,"Teen","Port Melbourne","M",516,116.3489184,230.370858432
+2014,"Teen","South Yarra","M",208,46.9003392,92.862671616
+2016,"Teen","Carlton","F",1837,338.9000472,671.022093456
+2015,"Teen","Melbourne (CBD)","F",408,75.2701248,149.034847104
+2014,"Teen","Port Melbourne","F",494,91.1358864,180.449055072
+2014,"Teen","South Yarra","F",225,41.50926,82.1883348
+2016,"Teen","Carlton","A",3189,653.693976,1294.31407248
+2015,"Teen","Melbourne (CBD)","A",787,161.322408,319.41836784
+2017,"Teen","Melbourne (Remainder)","M",0,0,0
+2016,"Teen","North Melbourne","M",781,176.1017544,348.681473712
+2016,"Teen","Docklands","M",270,60.880248,120.54289104
+2015,"Teen","Melbourne (CBD)","M",787,177.4546488,351.360204624
+2017,"Teen","Melbourne (Remainder)","F",0,0,0
+2016,"Teen","North Melbourne","F",898,165.6680688,328.022776224
+2016,"Teen","Docklands","F",328,60.5112768,119.812328064
+2015,"Teen","Melbourne (CBD)","F",1108,204.4100448,404.731888704
+2017,"Teen","Melbourne (Remainder)","A",0,0,0
+2016,"Teen","North Melbourne","A",1679,344.168136,681.45290928
+2016,"Teen","Docklands","A",598,122.580432,242.70925536
+2015,"Teen","Melbourne (CBD)","A",1895,388.44468,769.1204664
+2017,"Teen","Kensington","M",380,85.683312,169.65295776
+2016,"Teen","Melbourne (Remainder)","M",0,0,0
+2016,"Teen","East Melbourne","M",82,18.4895568,36.609322464
+2015,"Teen","Melbourne (CBD)","M",407,91.7713368,181.707246864
+2017,"Teen","Kensington","F",375,69.1821,136.980558
+2016,"Teen","Melbourne (Remainder)","F",0,0,0
+2016,"Teen","East Melbourne","F",89,16.4192184,32.510052432
+2015,"Teen","Melbourne (CBD)","F",529,97.5928824,193.233907152
+2017,"Teen","Kensington","A",755,154.76292,306.4305816
+2016,"Teen","Melbourne (Remainder)","A",0,0,0
+2016,"Teen","East Melbourne","A",171,35.052264,69.40348272
+2015,"Teen","Melbourne (CBD)","A",936,191.865024,379.89274752
+2017,"Teen","Parkville","M",630,142.053912,281.26674576
+2016,"Teen","Southbank","M",157,35.4007368,70.093458864
+2016,"Teen","Melbourne (Remainder)","M",0,0,0
+2015,"Teen","North Melbourne","M",756,170.4646944,337.520094912
+2017,"Teen","Parkville","F",854,157.5507024,311.950390752
+2016,"Teen","Southbank","F",181,33.3918936,66.115949328
+2016,"Teen","Melbourne (Remainder)","F",0,0,0
+2015,"Teen","North Melbourne","F",832,153.4920192,303.914198016
+2017,"Teen","Parkville","A",1484,304.196256,602.30858688
+2016,"Teen","Southbank","A",338,69.284592,137.18349216
+2016,"Teen","Melbourne (Remainder)","A",0,0,0
+2015,"Teen","North Melbourne","A",1588,325.514592,644.51889216
+2017,"Teen","South Yarra","M",244,55.0177056,108.935057088
+2016,"Teen","Southbank","M",302,68.0956848,134.829455904
+2016,"Teen","Kensington","M",367,82.7520408,163.849040784
+2015,"Teen","Melbourne (Remainder)","M",0,0,0
+2017,"Teen","South Yarra","F",226,41.6937456,82.553616288
+2016,"Teen","Southbank","F",412,76.0080672,150.495973056
+2016,"Teen","Kensington","F",351,64.7544456,128.213802288
+2015,"Teen","Melbourne (Remainder)","F",0,0,0
+2017,"Teen","South Yarra","A",470,96.34248,190.7581104
+2016,"Teen","Southbank","A",714,146.358576,289.78998048
+2016,"Teen","Kensington","A",718,147.178512,291.41345376
+2015,"Teen","Melbourne (Remainder)","A",0,0,0
+2017,"Teen","West Melbourne (Industrial)","M",0,0,0
+2016,"Teen","West Melbourne (Residential)","M",163,36.7536312,72.772189776
+2016,"Teen","Parkville","M",599,135.0639576,267.426636048
+2015,"Teen","Southbank","M",136,30.6656064,60.717900672
+2017,"Teen","West Melbourne (Industrial)","F",0,0,0
+2016,"Teen","West Melbourne (Residential)","F",167,30.8090952,61.002008496
+2016,"Teen","Parkville","F",811,149.6178216,296.243286768
+2015,"Teen","Southbank","F",191,35.2367496,69.768764208
+2017,"Teen","West Melbourne (Industrial)","A",0,0,0
+2016,"Teen","West Melbourne (Residential)","A",330,67.64472,133.9365456
+2016,"Teen","Parkville","A",1410,289.02744,572.2743312
+2015,"Teen","Southbank","A",327,67.029768,132.71894064
+2017,"Teen","Melbourne (CBD)","M",410,92.447784,183.04661232
+2016,"Teen","Port Melbourne","M",573,129.2014152,255.818802096
+2016,"Teen","South Yarra","M",212,47.8022688,94.648492224
+2015,"Teen","Southbank","M",288,64.9389312,128.579083776
+2017,"Teen","Melbourne (CBD)","F",430,79.328808,157.07103984
+2016,"Teen","Port Melbourne","F",532,98.1463392,194.329751616
+2016,"Teen","South Yarra","F",243,44.8300008,88.763401584
+2015,"Teen","Southbank","F",365,67.337244,133.32774312
+2017,"Teen","Melbourne (CBD)","A",840,172.18656,340.9293888
+2016,"Teen","Port Melbourne","A",1105,226.50732,448.4844936
+2016,"Teen","South Yarra","A",455,93.26772,184.6700856
+2015,"Teen","Southbank","A",653,133.854552,265.03201296
+2017,"Teen","Melbourne (CBD)","M",828,186.6994272,369.664865856
+2016,"Teen","Port Melbourne","M",2,0.4509648,0.892910304
+2016,"Teen","West Melbourne (Industrial)","M",0,0,0
+2018,"Teen","Docklands","F",329,60.6957624,120.177609552
+2017,"Teen","Melbourne (CBD)","F",1231,227.1017736,449.661511728
+2016,"Teen","Port Melbourne","F",0,0,0
+2016,"Teen","West Melbourne (Industrial)","F",0,0,0
+2018,"Teen","Docklands","A",622,127.500048,252.45009504
+2017,"Teen","Melbourne (CBD)","A",2059,422.062056,835.68287088
+2016,"Teen","Port Melbourne","A",2,0.409968,0.81173664
+2016,"Teen","West Melbourne (Industrial)","A",0,0,0
+2018,"Teen","East Melbourne","M",86,19.3914864,38.395143072
+2017,"Teen","Melbourne (CBD)","M",500,112.7412,223.227576
+2017,"Teen","Carlton","M",1274,287.2645776,568.783863648
+2016,"Teen","Melbourne (CBD)","M",433,97.6338792,193.315080816
+2018,"Teen","East Melbourne","F",102,18.8175312,37.258711776
+2017,"Teen","Melbourne (CBD)","F",623,114.9345288,227.570367024
+2017,"Teen","Carlton","F",1748,322.4808288,638.512041024
+2016,"Teen","Melbourne (CBD)","F",442,81.5426352,161.454417696
+2018,"Teen","East Melbourne","A",188,38.536992,76.30324416
+2017,"Teen","Melbourne (CBD)","A",1123,230.197032,455.79012336
+2017,"Teen","Carlton","A",3022,619.461648,1226.53406304
+2016,"Teen","Melbourne (CBD)","A",875,179.361,355.13478
+2018,"Teen","Melbourne (Remainder)","M",0,0,0
+2017,"Teen","North Melbourne","M",758,170.9156592,338.413005216
+2017,"Teen","Docklands","M",298,67.1937552,133.043635296
+2016,"Teen","Melbourne (CBD)","M",832,187.6013568,371.450686464
+2018,"Teen","Melbourne (Remainder)","F",0,0,0
+2017,"Teen","North Melbourne","F",883,162.9007848,322.543553904
+2017,"Teen","Docklands","F",341,62.9095896,124.560987408
+2016,"Teen","Melbourne (CBD)","F",1256,231.7139136,458.793548928
+2018,"Teen","Melbourne (Remainder)","A",0,0,0
+2017,"Teen","North Melbourne","A",1641,336.378744,666.02991312
+2017,"Teen","Docklands","A",639,130.984776,259.34985648
+2016,"Teen","Melbourne (CBD)","A",2088,428.006592,847.45305216
+2018,"Teen","Kensington","M",393,88.6145832,175.456874736
+2017,"Teen","Melbourne (Remainder)","M",0,0,0
+2017,"Teen","East Melbourne","M",89,20.0679336,39.734508528
+2016,"Teen","Melbourne (CBD)","M",461,103.9473864,205.815825072
+2018,"Teen","Kensington","F",387,71.3959272,141.363935856
+2017,"Teen","Melbourne (Remainder)","F",0,0,0
+2017,"Teen","East Melbourne","F",96,17.7106176,35.067022848
+2016,"Teen","Melbourne (CBD)","F",585,107.924076,213.68967048
+2018,"Teen","Kensington","A",780,159.88752,316.5772896
+2017,"Teen","Melbourne (Remainder)","A",0,0,0
+2017,"Teen","East Melbourne","A",185,37.92204,75.0856392
+2016,"Teen","Melbourne (CBD)","A",1046,214.413264,424.53826272
+2018,"Teen","Parkville","M",641,144.5342184,286.177752432
+2017,"Teen","Southbank","M",133,29.9891592,59.378535216
+2019,"Teen","West Melbourne (Industrial)","F",0,0,0
+2018,"Teen","West Melbourne (Residential)","F",186,34.3143216,67.942356768
+2018,"Teen","Parkville","F",888,163.8232128,324.369961344
+2017,"Teen","Southbank","F",193,35.6057208,70.499327184
+2019,"Teen","West Melbourne (Industrial)","A",0,0,0
+2018,"Teen","West Melbourne (Residential)","A",370,75.84408,150.1712784
+2018,"Teen","Parkville","A",1529,313.420536,620.57266128
+2017,"Teen","Southbank","A",326,66.824784,132.31307232
+2019,"Teen","Melbourne (CBD)","M",365,82.301076,162.95613048
+2018,"Teen","Port Melbourne","M",632,142.5048768,282.159656064
+2018,"Teen","South Yarra","M",256,57.7234944,114.292518912
+2017,"Teen","Southbank","M",300,67.64472,133.9365456
+2019,"Teen","Melbourne (CBD)","F",400,73.79424,146.1125952
+2018,"Teen","Port Melbourne","F",575,106.07922,210.0368556
+2018,"Teen","South Yarra","F",213,39.2954328,77.804956944
+2017,"Teen","Southbank","F",402,74.1632112,146.843158176
+2019,"Teen","Melbourne (CBD)","A",765,156.81276,310.4892648
+2018,"Teen","Port Melbourne","A",1207,247.415688,489.88306224
+2018,"Teen","South Yarra","A",469,96.137496,190.35224208
+2017,"Teen","Southbank","A",702,143.898768,284.91956064
+2019,"Teen","Melbourne (CBD)","M",774,174.5233776,345.556287648
+2018,"Teen","Port Melbourne","M",24,5.4115776,10.714923648
+2018,"Teen","West Melbourne (Industrial)","M",0,0,0
+2017,"Teen","West Melbourne (Residential)","M",174,39.2339376,77.683196448
+2019,"Teen","Melbourne (CBD)","F",1005,185.408028,367.10789544
+2018,"Teen","Port Melbourne","F",18,3.3207408,6.575066784
+2018,"Teen","West Melbourne (Industrial)","F",0,0,0
+2017,"Teen","West Melbourne (Residential)","F",168,30.9935808,61.367289984
+2019,"Teen","Melbourne (CBD)","A",1779,364.666536,722.03974128
+2018,"Teen","Port Melbourne","A",42,8.609328,17.04646944
+2018,"Teen","West Melbourne (Industrial)","A",0,0,0
+2017,"Teen","West Melbourne (Residential)","A",342,70.104528,138.80696544
+2019,"Teen","Melbourne (CBD)","M",449,101.2415976,200.458363248
+2019,"Teen","Carlton","M",1062,239.4623088,474.135371424
+2018,"Teen","Melbourne (CBD)","M",397,89.5165128,177.242695344
+2017,"Teen","Port Melbourne","M",606,136.6423344,270.551822112
+2019,"Teen","Melbourne (CBD)","F",545,100.544652,199.07841096
+2019,"Teen","Carlton","F",1396,257.5418976,509.932957248
+2018,"Teen","Melbourne (CBD)","F",423,78.0374088,154.514069424
+2017,"Teen","Port Melbourne","F",557,102.7584792,203.461788816
+2019,"Teen","Melbourne (CBD)","A",994,203.754096,403.43311008
+2019,"Teen","Carlton","A",2458,503.850672,997.62433056
+2018,"Teen","Melbourne (CBD)","A",820,168.08688,332.8120224
+2017,"Teen","Port Melbourne","A",1163,238.396392,472.02485616
+2019,"Teen","North Melbourne","M",761,171.5921064,339.752370672
+2019,"Teen","Docklands","M",273,61.5566952,121.882256496
+2018,"Teen","Melbourne (CBD)","M",810,182.640744,361.62867312
+2017,"Teen","Port Melbourne","M",14,3.1567536,6.250372128
+2019,"Teen","North Melbourne","F",821,151.4626776,299.896101648
+2019,"Teen","Docklands","F",311,57.3750216,113.602542768
+2018,"Teen","Melbourne (CBD)","F",1131,208.6532136,413.133362928
+2017,"Teen","Port Melbourne","F",7,1.2913992,2.556970416
+2019,"Teen","North Melbourne","A",1582,324.284688,642.08368224
+2019,"Teen","Docklands","A",584,119.710656,237.02709888
+2018,"Teen","Melbourne (CBD)","A",1941,397.873944,787.79040912
+2017,"Teen","Port Melbourne","A",21,4.304664,8.52323472
+2019,"Teen","Melbourne (Remainder)","M",0,0,0
+2019,"Teen","East Melbourne","M",89,20.0679336,39.734508528
+2018,"Teen","Melbourne (CBD)","M",487,109.8099288,217.423659024
+2018,"Teen","Carlton","M",1160,261.559584,517.88797632
+2019,"Teen","Melbourne (Remainder)","F",0,0,0
+2019,"Teen","East Melbourne","F",104,19.1865024,37.989274752
+2018,"Teen","Melbourne (CBD)","F",591,109.0309896,215.881359408
+2018,"Teen","Carlton","F",1578,291.1182768,576.414188064
+2019,"Teen","Melbourne (Remainder)","A",0,0,0
+2019,"Teen","East Melbourne","A",193,39.561912,78.33258576
+2018,"Teen","Melbourne (CBD)","A",1078,220.972752,437.52604896
+2018,"Teen","Carlton","A",2738,561.246192,1111.26746016
+2019,"Teen","Southbank","M",121,27.2833704,54.021073392
+2019,"Teen","Melbourne (Remainder)","M",0,0,0
+2018,"Teen","North Melbourne","M",765,172.494036,341.53819128
+2018,"Teen","Docklands","M",293,66.0663432,130.811359536
+2019,"Teen","Southbank","F",167,30.8090952,61.002008496
+2019,"Teen","Melbourne (Remainder)","F",1,0.1844856,0.365281488
+2018,"Teen","North Melbourne","F",859,158.4731304,313.776798192
+2020,"Teen","Parkville","A",1631,334.328904,661.97122992
+2019,"Teen","Southbank","A",288,59.035392,116.89007616
+2019,"Teen","Melbourne (Remainder)","A",1,0.204984,0.40586832
+2018,"Teen","North Melbourne","A",1624,332.894016,659.13015168
+2020,"Teen","South Yarra","M",242,54.5667408,108.042146784
+2019,"Teen","Southbank","M",292,65.8408608,130.364904384
+2019,"Teen","Kensington","M",409,92.2223016,182.600157168
+2018,"Teen","Melbourne (Remainder)","M",0,0,0
+2020,"Teen","South Yarra","F",221,40.7713176,80.727208848
+2019,"Teen","Southbank","F",381,70.2890136,139.172246928
+2019,"Teen","Kensington","F",403,74.3476968,147.208439664
+2018,"Teen","Melbourne (Remainder)","F",0,0,0
+2020,"Teen","South Yarra","A",463,94.907592,187.91703216
+2019,"Teen","Southbank","A",673,137.954232,273.14937936
+2019,"Teen","Kensington","A",812,166.447008,329.56507584
+2018,"Teen","Melbourne (Remainder)","A",0,0,0
+2020,"Teen","West Melbourne (Industrial)","M",0,0,0
+2019,"Teen","West Melbourne (Residential)","M",192,43.2926208,85.719389184
+2019,"Teen","Parkville","M",652,147.0145248,291.088759104
+2018,"Teen","Southbank","M",126,28.4107824,56.253349152
+2020,"Teen","West Melbourne (Industrial)","F",0,0,0
+2019,"Teen","West Melbourne (Residential)","F",196,36.1591776,71.595171648
+2019,"Teen","Parkville","F",940,173.416464,343.36459872
+2018,"Teen","Southbank","F",186,34.3143216,67.942356768
+2020,"Teen","West Melbourne (Industrial)","A",0,0,0
+2019,"Teen","West Melbourne (Residential)","A",388,79.533792,157.47690816
+2019,"Teen","Parkville","A",1592,326.334528,646.14236544
+2018,"Teen","Southbank","A",312,63.955008,126.63091584
+2020,"Teen","Melbourne (CBD)","M",311,70.1250264,138.847552272
+2019,"Teen","Port Melbourne","M",686,154.6809264,306.268234272
+2019,"Teen","South Yarra","M",255,57.498012,113.84606376
+2018,"Teen","Southbank","M",305,68.772132,136.16882136
+2020,"Teen","Melbourne (CBD)","F",355,65.492388,129.67492824
+2019,"Teen","Port Melbourne","F",616,113.6431296,225.013396608
+2019,"Teen","South Yarra","F",219,40.4023464,79.996645872
+2018,"Teen","Southbank","F",394,72.6873264,143.920906272
+2020,"Teen","Melbourne (CBD)","A",666,136.519344,270.30830112
+2019,"Teen","Port Melbourne","A",1302,266.889168,528.44055264
+2019,"Teen","South Yarra","A",474,97.162416,192.38158368
+2018,"Teen","Southbank","A",699,143.283816,283.70195568
+2020,"Teen","Melbourne (CBD)","M",698,157.3867152,311.625696096
+2019,"Teen","Port Melbourne","M",40,9.019296,17.85820608
+2019,"Teen","West Melbourne (Industrial)","M",0,0,0
+2018,"Teen","West Melbourne (Residential)","M",184,41.4887616,82.147747968
+2020,"Teen","Melbourne (CBD)","F",841,155.1523896,307.201731408
+2019,"Teen","Port Melbourne","F",30,5.534568,10.95844464
+2021,"Teen","North Melbourne","A",1414,289.847376,573.89780448
+2021,"Teen","Docklands","A",440,90.19296,178.5820608
+2020,"Teen","Melbourne (CBD)","A",1539,315.470376,624.63134448
+2019,"Teen","Port Melbourne","A",70,14.34888,28.4107824
+2021,"Teen","Melbourne (Remainder)","M",0,0,0
+2021,"Teen","East Melbourne","M",87,19.6169688,38.841598224
+2020,"Teen","Melbourne (CBD)","M",395,89.065548,176.34978504
+2020,"Teen","Carlton","M",933,210.3750792,416.542656816
+2021,"Teen","Melbourne (Remainder)","F",0,0,0
+2021,"Teen","East Melbourne","F",100,18.44856,36.5281488
+2020,"Teen","Melbourne (CBD)","F",462,85.2323472,168.760047456
+2020,"Teen","Carlton","F",1136,209.5756416,414.959770368
+2021,"Teen","Melbourne (Remainder)","A",0,0,0
+2021,"Teen","East Melbourne","A",187,38.332008,75.89737584
+2020,"Teen","Melbourne (CBD)","A",857,175.671288,347.82915024
+2020,"Teen","Carlton","A",2069,424.111896,839.74155408
+2021,"Teen","Southbank","M",105,23.675652,46.87779096
+2021,"Teen","Melbourne (Remainder)","M",0,0,0
+2020,"Teen","North Melbourne","M",773,174.2978952,345.109832496
+2020,"Teen","Docklands","M",246,55.4686704,109.827967392
+2021,"Teen","Southbank","F",97,17.8951032,35.432304336
+2021,"Teen","Melbourne (Remainder)","F",0,0,0
+2020,"Teen","North Melbourne","F",774,142.7918544,282.727871712
+2020,"Teen","Docklands","F",272,50.1800832,99.356564736
+2021,"Teen","Southbank","A",202,41.406768,81.98540064
+2021,"Teen","Melbourne (Remainder)","A",0,0,0
+2020,"Teen","North Melbourne","A",1547,317.110248,627.87829104
+2020,"Teen","Docklands","A",518,106.181712,210.23978976
+2021,"Teen","Southbank","M",262,59.0763888,116.971249824
+2021,"Teen","Kensington","M",396,89.2910304,176.796240192
+2020,"Teen","Melbourne (Remainder)","M",0,0,0
+2020,"Teen","East Melbourne","M",92,20.7443808,41.073873984
+2021,"Teen","Southbank","F",303,55.8991368,110.680290864
+2021,"Teen","Kensington","F",397,73.2407832,145.016750736
+2020,"Teen","Melbourne (Remainder)","F",0,0,0
+2020,"Teen","East Melbourne","F",106,19.5554736,38.719837728
+2021,"Teen","Southbank","A",565,115.81596,229.3156008
+2021,"Teen","Kensington","A",793,162.552312,321.85357776
+2020,"Teen","Melbourne (Remainder)","A",0,0,0
+2020,"Teen","East Melbourne","A",198,40.586832,80.36192736
+2021,"Teen","West Melbourne (Residential)","M",179,40.3613496,79.915472208
+2021,"Teen","Parkville","M",578,130.3288272,258.051077856
+2020,"Teen","Southbank","M",124,27.9598176,55.360438848
+2020,"Teen","Melbourne (Remainder)","M",0,0,0
+2021,"Teen","West Melbourne (Residential)","F",194,35.7902064,70.864608672
+2021,"Teen","Parkville","F",884,163.0852704,322.908835392
+2020,"Teen","Southbank","F",145,26.750412,52.96581576
+2020,"Teen","Melbourne (Remainder)","F",1,0.1844856,0.365281488
+2021,"Teen","West Melbourne (Residential)","A",373,76.459032,151.38888336
+2021,"Teen","Parkville","A",1462,299.686608,593.37948384
+2020,"Teen","Southbank","A",269,55.140696,109.17857808
+2020,"Teen","Melbourne (Remainder)","A",1,0.204984,0.40586832
+2021,"Teen","Port Melbourne","M",728,164.1511872,325.019350656
+2021,"Teen","South Yarra","M",199,44.8709976,88.844575248
+2020,"Teen","Southbank","M",278,62.6841072,124.114532256
+2020,"Teen","Kensington","M",408,91.9968192,182.153702016
+2021,"Teen","Port Melbourne","F",654,120.6535824,238.894093152
+2021,"Teen","South Yarra","F",214,39.4799184,78.170238432
+2020,"Teen","Southbank","F",348,64.2009888,127.117957824
+2020,"Teen","Kensington","F",399,73.6097544,145.747313712
+2021,"Teen","Port Melbourne","A",1382,283.287888,560.91001824
+2021,"Teen","South Yarra","A",413,84.658392,167.62361616
+2020,"Teen","Southbank","A",626,128.319984,254.07356832
+2020,"Teen","Kensington","A",807,165.422088,327.53573424
+2021,"Teen","Port Melbourne","M",51,11.4996024,22.769212752
+2021,"Teen","West Melbourne (Industrial)","M",0,0,0
+2020,"Teen","West Melbourne (Residential)","M",192,43.2926208,85.719389184
+2020,"Teen","Parkville","M",656,147.9164544,292.874579712
+2021,"Teen","Port Melbourne","F",42,7.7483952,15.341822496
+2021,"Teen","West Melbourne (Industrial)","F",0,0,0
+2020,"Teen","West Melbourne (Residential)","F",199,36.7126344,72.691016112
+2020,"Teen","Parkville","F",975,179.87346,356.1494508
+2021,"Teen","Port Melbourne","A",93,19.063512,37.74575376
+2021,"Teen","West Melbourne (Industrial)","A",0,0,0
+2020,"Teen","West Melbourne (Residential)","A",391,80.148744,158.69451312
+2021,"Teen","Melbourne (CBD)","M",303,68.3211672,135.275911056
+2021,"Teen","Melbourne (CBD)","M",553,124.6917672,246.889699056
+2021,"Teen","Melbourne (CBD)","M",201,45.3219624,89.737485552
+2020,"Teen","Port Melbourne","M",709,159.8670216,316.536702768
+2021,"Teen","Melbourne (CBD)","F",346,63.8320176,126.387394848
+2021,"Teen","Melbourne (CBD)","F",621,114.5655576,226.839804048
+2021,"Teen","Melbourne (CBD)","F",267,49.2576552,97.530157296
+2020,"Teen","Port Melbourne","F",626,115.4879856,228.666211488
+2021,"Teen","Melbourne (CBD)","A",649,133.034616,263.40853968
+2021,"Teen","Melbourne (CBD)","A",1174,240.651216,476.48940768
+2021,"Teen","Melbourne (CBD)","A",468,95.932512,189.94637376
+2020,"Teen","Port Melbourne","A",1335,273.65364,541.8342072
+2021,"Teen","North Melbourne","M",690,155.582856,308.05405488
+2021,"Teen","Docklands","M",209,47.1258216,93.309126768
+2021,"Teen","Carlton","M",690,155.582856,308.05405488
+2020,"Teen","Port Melbourne","M",46,10.3721904,20.536936992
+2021,"Teen","North Melbourne","F",724,133.5675744,264.463797312
+2021,"Teen","Docklands","F",231,42.6161736,84.380023728
+2021,"Teen","Carlton","F",782,144.2677392,285.650123616
+2020,"Teen","Port Melbourne","F",36,6.6414816,13.150133568
+2021,"Teen","Carlton","A",1472,301.736448,597.43816704
+2020,"Teen","Port Melbourne","A",82,16.808688,33.28120224
